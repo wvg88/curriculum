@@ -8,7 +8,7 @@
 
 
 
-#### Werkprocessen:
+**Werkprocessen:**
 
 - Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van  het ontwikkelproces
 - Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context
