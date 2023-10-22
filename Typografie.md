@@ -1,4 +1,5 @@
-# Leerlijn Typografie 
+# Leerlijn Typografie
+
 *GVO Leerjaar 3 2024/25*
 
 || Periode 1  | Periode 2  | Periode 3  | Periode 4  |
@@ -19,6 +20,7 @@
 
 
 ## Periode 1
+
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**
 |---|---|---|---|---|
 |**Week 1**|Introductie Typografie| Presentatie Letterfontein| Typografische Animatie|Cijfer|
@@ -34,7 +36,8 @@
 |**Schakelweek**|   |   |   |
 
 
-# Periode 2
+## Periode 2
+
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
 |**Week 1**|Classificaties| Vox ATypi classificaties | Infographic |
@@ -44,7 +47,9 @@
 |**Week 5**||||
 |**Week 6**||||
 |**Week 7**||||
-# Periode 3
+
+## Periode 3
+
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
 |**Week 1**|Introductie Project| Presentatie | Letter in de omgeving |
@@ -54,7 +59,9 @@
 |**Week 5**||||
 |**Week 6**||||
 |**Week 7**||||
-# Periode 4
+
+## Periode 4
+
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
 |**Week 1**|Introductie Project| Presentatie | Eigen lettertype ontwerpen |
