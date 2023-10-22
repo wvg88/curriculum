@@ -34,7 +34,7 @@ Curriculum Grafisch Vormgeven
 |Grafisch Vormgeven|Layout/FHJ Magazine|FHJ Magazine||Huisstijl & Verpakking|
 |Animatie|x|x|x|x|
 |BeeldBewerking|Belichting & Camera|Compositing|‘In de stijl van’|Vrij Project|
-|[[Typografie]]|Opmaak Magazines|Classificaties|Letter in de omgeving|Lettertype maken|
+|[Typografie](/Typografie.md)|Opmaak Magazines|Classificaties|Letter in de omgeving|Lettertype maken|
 |Datavisualisatie|Infographic|After Effects|Uitleg Animaties||
 |Portfolio|x|Showreel & Portfolio Update|x|x|
 |Ondernemerschap|ZZP-Project|x|x|x|
