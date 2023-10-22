@@ -29,11 +29,38 @@
 |**Week 6**||||
 |**Week 7**||||
 |**Herfstvakantie**|
-|**Week 8**||||
+|**Week 8**|Typecrimes|Artikel Vruchtvlees||
 |**Week 9**||||
 |**Schakelweek**|   |   |   |
 
 
 # Periode 2
+|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
+|---|---|---|---|
+|**Week 1**|Classificaties| Vox ATypi classificaties | Infographic |
+|**Week 2**||||
+|**Week 3**||||
+|**Week 4**||||
+|**Week 5**||||
+|**Week 6**||||
+|**Week 7**||||
 # Periode 3
+|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
+|---|---|---|---|
+|**Week 1**|Introductie Project| Presentatie | Letter in de omgeving |
+|**Week 2**||||
+|**Week 3**||||
+|**Week 4**||||
+|**Week 5**||||
+|**Week 6**||||
+|**Week 7**||||
 # Periode 4
+|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
+|---|---|---|---|
+|**Week 1**|Introductie Project| Presentatie | Eigen lettertype ontwerpen |
+|**Week 2**||||
+|**Week 3**||||
+|**Week 4**||||
+|**Week 5**||||
+|**Week 6**||||
+|**Week 7**||||
