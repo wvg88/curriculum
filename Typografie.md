@@ -1,5 +1,5 @@
 # Leerlijn Typografie 
-*GVO Leerjaar 3 2023/24*
+*GVO Leerjaar 3 2024/25*
 
 || Periode 1  | Periode 2  | Periode 3  | Periode 4  |
 |---|:---:|:---:|:---:|:---:|
@@ -19,17 +19,17 @@
 
 
 ## Periode 1
-|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
-|---|---|---|---|
-|**Week 1**|Introductie Typografie| Presentatie Letterfontein| Typografische Animatie|
-|**Week 2**|Geschiedenis Typografie| Video:History of Typography|Typografische animatie
-|**Week 3**|Hiërarchie in text|Typogrammen|Paragraph Styles|
-|**Week 4**|Hiërarchie in text|Typogrammen|Paragraph Styles|
+|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**
+|---|---|---|---|---|
+|**Week 1**|Introductie Typografie| Presentatie Letterfontein| Typografische Animatie|Cijfer|
+|**Week 2**|Geschiedenis Typografie| [History of Typography](https://vimeo.com/forrestmedia/the-history-of-typography)|Typografische animatie|Cijfer|
+|**Week 3**|Hiërarchie in text|Typogrammen|Paragraph Styles|-
+|**Week 4**|Hiërarchie in text|Typogrammen|Paragraph Styles|-
 |**Week 5**||||
 |**Week 6**||||
 |**Week 7**||||
 |**Herfstvakantie**|
-|**Week 8**|Typecrimes|Artikel Vruchtvlees||
+|**Week 8**|Typecrimes|Artikel Vruchtvlees|Opmaak Lorem Ipsum|-
 |**Week 9**||||
 |**Schakelweek**|   |   |   |
 
@@ -64,3 +64,4 @@
 |**Week 5**||||
 |**Week 6**||||
 |**Week 7**||||
+
