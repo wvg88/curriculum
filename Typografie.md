@@ -1,25 +1,39 @@
-Typografie
-#Leerjaar3 #GVO
+# Leerlijn Typografie 
+*GVO Leerjaar 3 2023/24*
 
-# Leerlijn 2023/24
-|Periode 1|	Periode 2|	Periode 3|	Periode 4|
+|| Periode 1  | Periode 2  | Periode 3  | Periode 4  |
+|---|:---:|:---:|:---:|:---:|
+|**Onderwerp**|Opmaak Magazines|Classificaties|Letter in de omgeving|Lettertype maken|
+|**Uur per Week**|3|3|3|3|
+
+
+
+#### Werkprocessen:
+
+- Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van  het ontwikkelproces
+- Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context
+- Realiseert de vormgeving voor crossmediale toepassingen
+
+
+
+
+
+## Periode 1
+|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
-|Opmaak Magazines|Classificaties|Letter in de omgeving|Lettertype maken|
+|**Week 1**|Introductie Typografie| Presentatie Letterfontein| Typografische Animatie|
+|**Week 2**|Geschiedenis Typografie| Video:History of Typography|Typografische animatie
+|**Week 3**|Hiërarchie in text|Typogrammen|Paragraph Styles|
+|**Week 4**|Hiërarchie in text|Typogrammen|Paragraph Styles|
+|**Week 5**||||
+|**Week 6**||||
+|**Week 7**||||
+|**Herfstvakantie**|
+|**Week 8**||||
+|**Week 9**||||
+|**Schakelweek**|   |   |   |
 
-Werkprocessen:
-Periode 1
-Onderdeel	Lesstof	Opdrachten
-Week 1			
-Week 2			
-Week 3			
-Week 4			
-Week 5			
-Week 6			
-Week 7			
-Herfstvakantie			
-Week 8			
-Week 9			
-Schakelweek			
-Periode 2
-Periode 3
-Periode 4
+
+# Periode 2
+# Periode 3
+# Periode 4
