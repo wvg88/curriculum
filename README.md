@@ -35,7 +35,7 @@
 |**Animatie**|x|x|x|x|
 |**BeeldBewerking**|Belichting & Camera|Compositing|‘In de stijl van’|Vrij Project|
 |**[Typografie](/Typografie.md)**|Opmaak Magazines|Classificaties|Letter in de omgeving|Lettertype maken|
-|**Datavisualisatie**|Infographic|After Effects|Uitleg Animaties||
+|**[Datavisualisatie](/Datavisualisatie.md)**|Infographic|After Effects|Uitleg Animaties||
 |**Portfolio**|x|Showreel & Portfolio Update|x|x|
 |**Ondernemerschap**|ZZP-Project|x|x|x|
 |**Branding**|Merk Identiteit / kernwaarden|Markt Onderzoek / positionering|Campagne|Combi met Grafisch Vormgeven|
@@ -74,3 +74,37 @@ De mediavormgever realiseert de vormgeving van        crossmediale oplossingen v
 
 	- Maakt een persoonlijk portfolio
 	- Participeert in relevant netwerk (communicatief en commercieel)
+
+
+
+# Algemene leerdoelen grafisch vormgeven
+*Geformuleerd door team Media*
+## 1ste jaar:
+-	Kennis van Adobe programma’s opdoen	Indesign, illustrator en photoshop 
+-	Werken met de pentool, basiskennis van vectoren 
+-	Basiskennis en vaardigheden in design voor drukwerk (DTP).  
+-	Basiskennis en vaardigheden van illustreren
+-   Creativiteit omzetten naar praktische oplossingen visuele communicatie.
+-	Basiskennis statische layout (posters en drukwerk)
+-	Basiskennis typografie
+-	Basiskennis design thinking
+
+## 2e jaar:
+-	Herhaling digitale vaardigheden en praktische Adobe kennis.
+-	Basiskennis van visuele ideniteit (corporate design)  (branding en huisstijlhandboek)
+-	Klantcontact en omzetten van communicatievraag (basis).
+-	Basiskennis en vaardigheden van animatie, technieken als media. 
+-	Basiskennis en vaardigheden van ontwerpen voor flexibele layouts (web en)Creativiteit omzetten in crossmediale toepassingen.
+-	Basiskennis ontwerpen voor verschillende media, verschil kleurtechniek, implicaties die komen met ontwerpen voor dynamische media.
+-	Basis van evalueren en testen van een ontwerp.
+-	Persoonlijke positionering en branding, portfolio en presentatie.
+
+## 3e jaar:
+-	Verdieping branding en corporate identity
+-	Basiskennis datavisualisatie 
+-	Verdieping postionering en persoonlijke identiteit. Vorming van karakter en visuele signatuur in portfolio.
+-	Verdieping kennis en vaardigheden van typografie. 
+-	Verdieping kennis vaardigheden van visuele identiteit (design-systemen en visuele concepten)
+-	Basiskennis kunstgeschiedenis en vormgeven in historische context
+-	Verdieping design thinking en zelfstandig navigeren creatief proces 
+-	Netwerken en samenwerkingen met andere vakgebieden

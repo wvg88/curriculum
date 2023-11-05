@@ -1,5 +1,5 @@
 # Leerlijn DataVisualisatie 
-*GVO Leerjaar 3 2024/25*
+*GVO Leerjaar 3 2023/24*
 
 || Periode 1  | Periode 2  | Periode 3  | Periode 4  |
 |---|:---:|:---:|:---:|:---:|

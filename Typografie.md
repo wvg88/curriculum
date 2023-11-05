@@ -1,5 +1,5 @@
 # Leerlijn Typografie 
-*GVO Leerjaar 3 2024/25*
+*GVO Leerjaar 3 2023/24*
 
 || Periode 1  | Periode 2  | Periode 3  | Periode 4  |
 |---|:---:|:---:|:---:|:---:|
@@ -43,7 +43,11 @@
 |**Week 4**||||
 |**Week 5**||||
 |**Week 6**||||
+|**Kerstvakantie**|
+|**Kerstvakantie**|
 |**Week 7**||||
+|**Week 8**||||
+|**Kantelweek**||||
 # Periode 3
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
