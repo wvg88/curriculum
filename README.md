@@ -17,8 +17,8 @@
 
 | Vak  | Periode 1  | Periode 2   |
 |---|---|---|
-|**Grafisch Vormgeven**|Huisstijl|Iconen|
-|**Animatie**|12 principes|Walking Cycle|
+|**Grafisch Vormgeven**|BoekOntwerp|Iconen|
+|**Animatie**|Animate/tweens|12 Principes|
 |**Beeld <br>Bewerking**|x|x|
 |**Illustratie**|Character Design|x|
 |**Film & <br>Fotografie**|Productfotografie|Compositing|
