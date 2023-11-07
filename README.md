@@ -21,7 +21,7 @@
 |**Animatie**|Animate/tweens|12 Principes|
 |**Beeld <br>Bewerking**|x|x|
 |**Illustratie**|Character Design|x|
-|**Film & <br>Fotografie**|Productfotografie|Compositing|
+|**[Film & <br>Fotografie](/Film&Fotografie.md)**|Licht/Portret/Framing|Compositing|
 |**Portfolio**|Website/CV|Website/CV|
 |**Webdesign**|Wordpress|Portfolio|
 |**Interaction**  <br>Design|Transitions||
