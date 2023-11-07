@@ -40,18 +40,10 @@
 ## Periode 2
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**
 |---|---|---|---|---|
-<<<<<<< HEAD
-|**Week 1**|Typecrimes|Artikel Vruchtvlees|Opmaak Lorem Ipsum||
-
-|**Week 2**||||
-|**Week 3**||||
-|**Week 4**||||
-=======
 |**Week 1**|Afbrekingen & uitlijning|Artikel Vruchtvlees|Opmaak Lorem Ipsum||
 |**Week 2**|Typografie voor schermen|Presentatie|CSS Opdracht/Portfolio |
 |**Week 3**|Typografie voor schermen||CSS Opdracht/Portfolio|
 |**Week 4**|Fonts Combineren|Presentatie|Experiment|
->>>>>>> a36ebde (Grafisch Vormgeven toegevoegd)
 |**Week 5**||||
 |**Week 6**||||
 |**Kerstvakantie**|
@@ -62,13 +54,9 @@
 |**Kantelweek**||||
 
 
-<<<<<<< HEAD
 ## Periode 3
 
 
-=======
-# Periode 3
->>>>>>> a36ebde (Grafisch Vormgeven toegevoegd)
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
 |**Week 1**|Introductie Project| Presentatie | Letter in de omgeving |
@@ -79,13 +67,8 @@
 |**Week 6**||||
 |**Week 7**||||
 
-<<<<<<< HEAD
 ## Periode 4
 
-=======
-
-## Periode 4
->>>>>>> a36ebde (Grafisch Vormgeven toegevoegd)
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
 |**Week 1**|Introductie Project| Presentatie | Eigen lettertype ontwerpen |
