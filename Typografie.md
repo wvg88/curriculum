@@ -49,7 +49,6 @@
 |**Kerstvakantie**|
 |**Kerstvakantie**|
 |**Week 7**||||
-
 |**Week 8**||||
 |**Kantelweek**||||
 

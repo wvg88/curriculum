@@ -8,18 +8,17 @@ Software: Adobe XD, Lottiefiles, Visual Studio Code
 
 
 ### Beeldbewerking 
-Software:  
--	Photoshop
+Software: Photoshop
 
 ###	Interface 
-Software: Illustrator, Adobe XD, Figma
+Software: Illustrator, Adobe XD
 -	User interface design
 -	Iconen en interface elementen
 -	SVG
 
 || Periode 1  | Periode 2  | Periode 3  | Periode 4  |
 |---|:---:|:---:|:---:|:---:|
-|**Onderwerp**|Animaties|Classificaties|Letter in de omgeving|Lettertype maken|
+|**Onderwerp**|||| |
 |**Uur per Week**|6|6|6|6|
 
 
@@ -27,14 +26,14 @@ Software: Illustrator, Adobe XD, Figma
 
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**
 |---|---|---|---|---|
-|**Week 1**|Introductie Werken met Licht| Presentatie | ||
-|**Week 2**|Werken met licht|Bekijken werk studenten |  |Cijfer|
-|**Week 3**|Portret |Presentatie / Studio| |-
-|**Week 4**|Framing 1/2|| |-
-|**Week 5**|Framing 2/2|||
+|**Week 1**||  | ||
+|**Week 2**|||  ||
+|**Week 3**| |  | |-
+|**Week 4**| || |-
+|**Week 5**| |||
 |**Week 6**||||
 |**Week 7**||||
 |**Herfstvakantie**|
 |**Week 8**||   |
-|**Week 9**|Scherpte / diepte|||
+|**Week 9**|  |||
 |**Schakelweek**|   |   |   |
