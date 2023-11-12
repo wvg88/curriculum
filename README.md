@@ -18,7 +18,7 @@
 | Vak  | Periode 1  | Periode 2   |
 |---|---|---|
 |**Grafisch Vormgeven**|BoekOntwerp|Iconen|
-|**Animatie**|Animate/tweens|12 Principes|
+|**Animatie**|Animate/tweens|Explainer|
 |**Beeld <br>Bewerking**|x|x|
 |**Illustratie**|Character Design|x|
 |**[Film & <br>Fotografie](/Film&Fotografie.md)**|Licht/Portret/Framing|Compositing|
