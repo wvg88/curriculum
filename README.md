@@ -17,14 +17,14 @@
 
 | Vak  | Periode 1  | Periode 2   |
 |---|---|---|
-|**Grafisch Vormgeven**|BoekOntwerp|Iconen|
+|**Grafisch Vormgeven**|BoekOntwerp|PangeaProject/Expositie|
 |**Animatie**|Animate/tweens|Explainer|
 |**Beeld <br>Bewerking**|x|x|
 |**Illustratie**|Character Design|x|
 |**[Film & <br>Fotografie](/Film&Fotografie.md)**|Licht/Portret/Framing|Compositing|
 |**Portfolio**|Website/CV|Website/CV|
 |**Webdesign**|Wordpress|Portfolio|
-|**Interaction**  <br>Design|Transitions||
+|**Interaction<br>Design**  |Transitions||
 |**Project**|Doelgroep / User Centered Design|Design Thinking|
 
 ## Leerjaar 3
@@ -39,7 +39,7 @@
 |**Portfolio**|x|Showreel & Portfolio Update|x|x|
 |**Ondernemerschap**|ZZP-Project|x|x|x|
 |**Branding**|Merk Identiteit / kernwaarden|Markt Onderzoek / positionering|Campagne|Combi met Grafisch Vormgeven|
-|**Innovatie**|x|x|dedicated experimental interfaces|webAR|
+|**Innovatie**|x|x|dedicated experimental interfaces|Project FashionLabs|
 |**Project**|x|x|x|Overkoepelend Project|
 
 
