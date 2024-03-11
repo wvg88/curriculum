@@ -18,8 +18,6 @@
 
 
 
-
-
 ## Periode 1
 
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**
@@ -59,12 +57,12 @@
 |   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  |
 |---|---|---|---|
 |**Week 1**|Introductie Project| Presentatie | Letter in de omgeving |
-|**Week 2**||||
-|**Week 3**||||
-|**Week 4**||||
-|**Week 5**||||
-|**Week 6**||||
-|**Week 7**||||
+|**Week 2**|Onderzoek & Conceptfase|Wat is een concept? | Materiaal, locatie? Waarom?
+|**Week 3**|Stop & Go Concept|Presenteren concept|Hoe verder? Planning & Protype|
+|**Week 4**|Schetsen en Plannen|Kleine fysieke schets|Technische schetsen uiteindelijke letter|
+|**Week 5**|Maken van de letter|Uitwerking ontwerp|Plannen fotoshoot|
+|**Week 6**|Fotograferen|Op locatie fotograferen|Foto nabewerken  print|
+|**Week 7**|Presenteren Eindproduct|||
 
 ## Periode 4
 

@@ -24,14 +24,14 @@
 |**[Film & <br>Fotografie](/Film&Fotografie.md)**|Licht/Portret/Framing|Compositing|
 |**Portfolio**|Website/CV|Website/CV|
 |**Webdesign**|Wordpress|Portfolio|
-|**Interaction<br>Design**  |Transitions||
+|**Interaction  <br>Design**|Transitions||
 |**Project**|Doelgroep / User Centered Design|Design Thinking|
 
 ## Leerjaar 3
 
 | Vak  | Periode 1  | Periode 2  | Periode 3   | Periode 4   |
 |---|---|---|---|---|
-|**Grafisch Vormgeven**|Layout/FHJ Magazine|FHJ Magazine||Huisstijl & Verpakking|
+|**Grafisch Vormgeven**|Layout/FHJ Magazine|FHJ Magazine|Ik-project|Huisstijl & Verpakking|
 |**Animatie**|x|x|x|x|
 |**BeeldBewerking**|Belichting & Camera|Compositing|‘In de stijl van’|Vrij Project|
 |**[Typografie](/Typografie.md)**|Opmaak Magazines|Classificaties|Letter in de omgeving|Lettertype maken|
@@ -39,8 +39,8 @@
 |**Portfolio**|x|Showreel & Portfolio Update|x|x|
 |**Ondernemerschap**|ZZP-Project|x|x|x|
 |**Branding**|Merk Identiteit / kernwaarden|Markt Onderzoek / positionering|Campagne|Combi met Grafisch Vormgeven|
-|**Innovatie**|x|x|dedicated experimental interfaces|Project FashionLabs|
-|**Project**|x|x|x|Overkoepelend Project|
+|**Innovatie**|x|x|Smart Start-Up Lite|Projecties Fashion Lab / Samenwerking opleiding mode|
+|**Project**|x|x|x|Overkoepelend Project met CCR / Toekomst-Media & Content|
 
 
 
@@ -102,7 +102,7 @@ De mediavormgever realiseert de vormgeving van        crossmediale oplossingen v
 ## 3e jaar:
 -	Verdieping branding en corporate identity
 -	Basiskennis datavisualisatie 
--	Verdieping postionering en persoonlijke identiteit. Vorming van karakter en visuele signatuur in portfolio.
+-	Verdieping positionering en persoonlijke identiteit. Vorming van karakter en visuele signatuur in portfolio.
 -	Verdieping kennis en vaardigheden van typografie. 
 -	Verdieping kennis vaardigheden van visuele identiteit (design-systemen en visuele concepten)
 -	Basiskennis kunstgeschiedenis en vormgeven in historische context
