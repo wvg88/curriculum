@@ -18,7 +18,7 @@ Software: Illustrator, Adobe XD
 
 || Periode 1  | Periode 2  | Periode 3  | Periode 4  |
 |---|:---:|:---:|:---:|:---:|
-|**Onderwerp**|Skills|Eigen project / Skills |Vrij Project / Ontwerp je eigen app| |
+|**Onderwerp**|Skills|Eigen project / Skills |Webshop|App|
 |**Uur per Week**|6|6|6|6|
 
 Onderdelen voor Ontwerp: Skills (Adobe Skills, Creative Coding), Projecten, Vrij Project, DataVisualisatie, Software Ontwerp: 

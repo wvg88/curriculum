@@ -62,12 +62,12 @@ De mediavormgever realiseert de vormgeving van        crossmediale oplossingen v
 
 1. Ontwikkelt crossmediale (vormgeef)oplossingen
 
+	- Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context
 	- Formuleert de voorlopige en definitieve mediavraag van de klant
+	- Voert de dialoog over duiding en vertaling van de input
 	- Informeert en betrekt belanghebbenden op verschillende momenten in het crossmediale ontwikkeltraject
 	- Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van  het ontwikkelproces
-	- Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context
 	- Realiseert de vormgeving voor crossmediale toepassingen
-	- Voert de dialoog over duiding en vertaling van de input
 	- Voert projectmatige werkzaamheden uit
 
 2. Positioneert en profileert zich in de markt
