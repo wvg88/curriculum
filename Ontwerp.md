@@ -74,29 +74,29 @@ Onderdelen voor Ontwerp: Skills (Adobe Skills, Creative Coding), Projecten, Vrij
 | **Week 1**            | Webshop / Ontwerpfase               | Presentatie Opdracht               | Marktonderzoek                 | 1/8             |
 | **Week 2**            | Webshop / Ontwerpfase               | Branding Introductie               | Huisstijl                      | 1/8             |
 | **Week 3**            | Webshop / Ontwerpfase               | Presentatie UML & Wireframes video | Wireframes & Technisch ontwerp | 1/8             |
-| **Week 4**            | Webshop / Ontwikkelingsfase         | High Fidelity Prototype            | Figma                          | 1/8             |
+| **Week 4**            | Webshop / Ontwerpfase               | High Fidelity Prototype            | Figma                          | 1/8             |
 | **Week 5**            | Webshop / Ontwikkelingsfase         | Combi met Webtech/ Laravel         | DatabaseDesign                 |                 |
 | **Voorjaarsvakantie** |                                     |                                    |                                |                 |
-| **Week 6**            | Webshop / Ontwikkelingsfase         |                                    |                                |                 |
-| **Week 7**            | Webshop / Ontwikkelingsfase         |                                    |                                |                 |
-| **Week 8**            | Webshop / Testen & Afronden         |                                    |                                |                 |
-| **Week 9**            | Webshop / Oplevering & Preseentatie |                                    |                                |                 |
-| **Schakelweek**       |                                     |                                    |                                |                 |
+| **Week 6**            | Webshop / Ontwikkelingsfase         | Ontwikkelen                        |                                |                 |
+| **Week 7**            | Webshop / Ontwikkelingsfase         | Ontwikkelen                        |                                |                 |
+| **Week 8**            | Webshop / Testen & Afronden         | Ontwikkelen                        |                                |                 |
+| **Week 9**            | Webshop / Oplevering & Preseentatie |                                    |                                | 4/8             |
+| **Schakelweek**       |                                     |                                    |                                | 8/8             |
 
 
 ## Periode 4
 
-|                  | **Onderdeel** | **Lesstof**         | **Opdrachten**      | **Beoordeling** |
-| ---------------- | ------------- | ------------------- | ------------------- | --------------- |
-| **Week 1**       | App           | Introductie project | Groepjes/ Keuze App |                 |
-| **Week 2**       |               |                     |                     |                 |
-| **Meikvakantie** |               |                     |                     |                 |
-| **Meikvakantie** |               |                     |                     |                 |
-| **Week 3**       |               |                     |                     | -               |
-| **Week 4**       |               |                     |                     | -               |
-| **Week 5**       |               |                     |                     |                 |
-| **Week 6**       |               |                     |                     |                 |
-| **Week 7**       |               |                     |                     |                 |
-| **Week 8**       |               |                     |                     |                 |
-| **Week 9**       |               |                     |                     |                 |
-| **Schakelweek**  |               |                     |                     |                 |
+|                  | **Onderdeel** | **Lesstof**                     | **Opdrachten**      | **Beoordeling** |
+| ---------------- | ------------- | ------------------------------- | ------------------- | --------------- |
+| **Week 1**       | App           | Introductie project             | Groepjes/ Keuze App |                 |
+| **Week 2**       | App           | Flowchart & Functiebeschrijving |                     |                 |
+| **Meikvakantie** |               |                                 |                     |                 |
+| **Meikvakantie** |               |                                 |                     |                 |
+| **Week 3**       | App           | Wireframes & testen             | Wireframes          | 1/8             |
+| **Week 4**       | App           | Testen & Onderzoek              | Testen              | 1/8             |
+| **Week 5**       | App           | Reflecteren & Itereren          | Aanpassen ontwerp   | 1/8             |
+| **Week 6**       | App           | High Fidelity Prototypes        |                     |                 |
+| **Week 7**       | App           | Werken aan Prototype            |                     |                 |
+| **Week 8**       | App           | Werken aan Prototype            |                     |                 |
+| **Week 9**       | App           | Presentatie Prototype App       |                     | 5/8             |
+| **Schakelweek**  |               |                                 |                     | 8/8             |
