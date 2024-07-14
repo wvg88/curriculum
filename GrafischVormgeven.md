@@ -1,10 +1,10 @@
 # Leerlijn Grafisch Vormgeven
-*GVO Leerjaar 3 2023/2024*
+*GVO Leerjaar 3 2024/2025*
 
-|                  |    Periode 1     | Periode 2 | Periode 3  |      Periode 4      |
-| ---------------- | :--------------: | :-------: | :--------: | :-----------------: |
-| **Onderwerp**    | Collage/Magazine | Magazine  | Ik-project | Kunst en Vormgeving |
-| **Uur per Week** |        6         |     6     |     6      |          6          |
+|                  | Periode 1 | Periode 2 | Periode 3  |      Periode 4      |
+| ---------------- | :-------: | :-------: | :--------: | :-----------------: |
+| **Onderwerp**    | Collage  |           | Ik-project | Kunst en Vormgeving |
+| **Uur per Week** |     6     |     6     |     6      |          6          |
 
 
 
@@ -40,10 +40,11 @@
 | **Week 5**         | Magazine       | Presentatie Fontys studenten Bladformule             | Kiezen ROC Studenten    |                                                 |
 | **Week 6**         | Magazine       | Samenwerken met groepje                              | Brief / Branche Analyse |                                                 |
 | **Week 7**         | Magazine       | Samenwerken met groepje                              | Opzetten Huisstijl Blad |                                                 |
-| **Herfstvakantie** |                |                                                      |                         |                                                 |
 | **Week 8**         | Magazine       | Samenwerken met groepje                              | Mockups van spreads     |                                                 |
+| **Herfstvakantie** |                |                                                      |                         |                                                 |
+
 | **Week 9**         | Magazine       | Presentatie ROC studenten Visueel Concept / Stramien |                         |                                          Cijfer |
-| **Kantelweek**     |                |                                                      |                         | Gemiddelde groep <br> & individueel ahv Logboek |
+| **Schakelweek**     |                |                                                      |                         | Gemiddelde groep <br> & individueel ahv Logboek |
 
 
 
@@ -61,7 +62,7 @@
 | **Kerstvakantie** |               |                          |                                            |                 |
 | **Week 7**        | Magazine      | Revisies Verwerken       |                                            |                 |
 | **Week 8**        | Magazine      | Drukklaar Maken          |                                            |                 |
-| **Kantelweek**    |               |                          | Gemiddelde groep & individueel ahv Logboek |                 |
+| **Schakelweek**    |               |                          | Gemiddelde groep & individueel ahv Logboek |                 |
 
 
 
@@ -78,7 +79,7 @@
 | **Week 6**            | Ik-project             | Uitwerken                          |                    |                 |
 | **Week 7**            | Ik-project             | Uitwerken                          |                    |                 |
 | **Week 8**            | Ik-project             | Finaliseren en Presenteren         |                    |                 |
-| **Kantelweek**        |                        |                                    |                    | Cijfer          |
+| **Schakelweek**        |                        |                                    |                    | Cijfer          |
 
 
 
@@ -96,4 +97,4 @@
 | **Week 6**      | Bauhaus & De Stijl                                  | Presentatie |                                              |                 |
 | **Week 7**      | Dada & Postmodernisme                               | Presentatie |                                              |                 |
 | **Week 8**      | Museumbezoek                                        |             |                                              |                 |
-| **Kantelweek**  |                                                     |             |                                              | Cijfer          |
+| **Schakelweek**  |                                                     |             |                                              | Cijfer          |

@@ -1,11 +1,11 @@
 
 # Leerlijn Typografie 
-*GVO Leerjaar 3 2023/24*
+*GVO Leerjaar 3 2024/25*
 
 
 || Periode 1  | Periode 2  | Periode 3  | Periode 4  |
 |---|:---:|:---:|:---:|:---:|
-|**Onderwerp**|Opmaak|Fonts, Classificaties & Context |Letter in de omgeving|Lettertype maken|
+|**Onderwerp**|Letter in omgeving/ graphic matters|Fonts, Classificaties & Context |Letter in de omgeving|Lettertype maken|
 |**Uur per Week**|3|3|3|3|
 
 
@@ -27,9 +27,10 @@
 |**Week 5**||||
 |**Week 6**||||
 |**Week 7**||||
-|**Herfstvakantie**|
 |**Week 8**||||
-|**Kantelweek**||||
+|**Herfstvakantie**|
+|**Week 9**||||
+|**Schakelweek**||||
 
 
 ## Periode 2
@@ -46,7 +47,7 @@
 |**Week 7**||||
 |**Week 8**|
 
-|**Kantelweek**|   |   |   |
+|**Schakelweek**|   |   |   |
 
 ## Periode 3
 
@@ -61,7 +62,7 @@
 | **Week 6**     | Fotograferen            | Op locatie fotograferen | Foto nabewerken  print                   |                 |
 | **Week 7**     | Presenteren Eindproduct |                         |                                          | Beoordeling     |
 | **Week 8**     |                         |                         |                                          |                 |
-| **Kantelweek** |                         |                         |                                          |                 |
+| **Schakelweek** |                         |                         |                                          |                 |
 
 
 
@@ -79,5 +80,5 @@
 | **Week 6**      | Finaliseren/ Presentatie | Voorbeelden Font Foundy's | Lettertype                         |                 |
 | **Week 7**      | Opleveren Eindproduct    |                           |                                    | Cijfer          |
 | **Week 8**      |                          |                           |                                    |                 |
-| **Kantelweek**  |                          |                           |                                    |                 |
+| **Schakelweek**  |                          |                           |                                    |                 |
 
