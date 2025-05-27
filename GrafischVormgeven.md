@@ -1,10 +1,11 @@
 # Leerlijn Grafisch Vormgeven
 *GVO Leerjaar 3 2024/2025*
+*Cohort 2022*
 
-|                  | Periode 1 | Periode 2 | Periode 3  |      Periode 4      |
-| ---------------- | :-------: | :-------: | :--------: | :-----------------: |
-| **Onderwerp**    | Collage  |           | Ik-project | Kunst en Vormgeving |
-| **Uur per Week** |     6     |     6     |     6      |          6          |
+|                  |                 Periode 1                 |         Periode 2          |       Periode 3       | Periode 4  |
+| ---------------- | :---------------------------------------: | :------------------------: | :-------------------: | :--------: |
+| **Onderwerp**    | Graphic Matters / Tussen Aanhalingstekens | Huisstijl Advocatenkantoor | Huisstijl FashionLabs | Street Art |
+| **Uur per Week** |                     6                     |             6              |           6           |     6      |
 
 
 
@@ -12,18 +13,18 @@
 
 1. Ontwikkelt crossmediale (vormgeef)oplossingen
 
-	- Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context
-	- Formuleert de voorlopige en definitieve mediavraag van de klant
-	- Voert de dialoog over duiding en vertaling van de input
-	- Informeert en betrekt belanghebbenden op verschillende momenten in het crossmediale ontwikkeltraject
-	- Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van  het ontwikkelproces
-	- Realiseert de vormgeving voor crossmediale toepassingen
-	- Voert projectmatige werkzaamheden uit
+	- Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context (P1,P2,P3)
+	- Formuleert de voorlopige en definitieve mediavraag van de klant (P2,P3,P4)
+	- Voert de dialoog over duiding en vertaling van de input (P2,P3,P4)
+	- Informeert en betrekt belanghebbenden op verschillende momenten in het crossmediale ontwikkeltraject (P3,P4)
+	- Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van  het ontwikkelproces (P1,P3,P4)
+	- Realiseert de vormgeving voor crossmediale toepassingen (P1,P2,P3,P4)
+	- Voert projectmatige werkzaamheden uit (P1,P2,P3,P4)
 
 2. Positioneert en profileert zich in de markt
 
-	- Maakt een persoonlijk portfolio
-	- Participeert in relevant netwerk (communicatief en commercieel)
+	- Maakt een persoonlijk portfolio (P1,P2,P3,P4)
+	- Participeert in relevant netwerk (communicatief en commercieel) (P1,P3,P4)
 
 
 
@@ -31,70 +32,70 @@
 
 ## Periode 1
 
-|                    | **Onderdeel**  | **Lesstof**                                          | **Opdrachten**          |                                 **Beoordeling** |
-| ------------------ | -------------- | ---------------------------------------------------- | ----------------------- | ----------------------------------------------: |
-| **Week 1**         | Introductie    | Presentatie                                          | Collage                 |                                               - |
-| **Week 2**         | Collage        | Bekijken werk studenten                              |                         |                                          Cijfer |
-| **Week 3**         | Intro Magazine | Uitleg Magazine opdracht                             | Magazines Meenemen      |                                                 |
-| **Week 4**         | Magazine       | Analyse Meegenomen Magazine                          | Layout Analyse          |                                                 |
-| **Week 5**         | Magazine       | Presentatie Fontys studenten Bladformule             | Kiezen ROC Studenten    |                                                 |
-| **Week 6**         | Magazine       | Samenwerken met groepje                              | Brief / Branche Analyse |                                                 |
-| **Week 7**         | Magazine       | Samenwerken met groepje                              | Opzetten Huisstijl Blad |                                                 |
-| **Week 8**         | Magazine       | Samenwerken met groepje                              | Mockups van spreads     |                                                 |
-| **Herfstvakantie** |                |                                                      |                         |                                                 |
-
-| **Week 9**         | Magazine       | Presentatie ROC studenten Visueel Concept / Stramien |                         |                                          Cijfer |
-| **Schakelweek**     |                |                                                      |                         | Gemiddelde groep <br> & individueel ahv Logboek |
+|                    | **Onderdeel**   | **Niveau**                                            | **Lesstof**                 | **Opdrachten** | **Beoordeling** |
+| ------------------ | --------------- | ----------------------------------------------------- | --------------------------- | -------------- | --------------: |
+| **Week 1**         | Kick-off Week   | 3                                                     | Nul-meting- skills opdracht |                |                 |
+| **Week 2**         | Graphic Matters | 3                                                     | Kick-off Graphic Matters    | Letterproef    |                 |
+| **Week 3**         | Graphic Matters | 3                                                     | Word as Image               | Word as Image  |                 |
+| **Week 4**         | Graphic Matters | 3                                                     | Lelijk/Mooi                 | Lelijk/Mooi    |                 |
+| **Week 5**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
+| **Week 6**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
+| **Week 7**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
+| **Week 8**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
+| **Herfstvakantie** |                 |                                                       |                             |                |                 |
+| **Week 9**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |          Cijfer |
+| **Schakelweek**    | Graphic Matters | Presentatie Poster van project Tussen aanhalingtekens | Presentatie                 |                |   Cijfer Poster |
+|                    |                 |                                                       |                             |                |                 |
 
 
 
 ## Periode 2
 
-|                   | **Onderdeel** | **Lesstof**              | **Opdrachten**                             | **Beoordeling** |
-| :---------------- | :------------ | :----------------------- | :----------------------------------------- | --------------- |
-| **Week 1**        | Magazine      | Uitwerken Stramien       |                                            |                 |
-| **Week 2**        | Magazine      | Presentatie Plank Fontys |                                            |                 |
-| **Week 3**        | Magazine      | Uitwerken Stramien       |                                            |                 |
-| **Week 4**        | Magazine      | Uitwerken Spreads        |                                            |                 |
-| **Week 5**        | Magazine      |                          |                                            |                 |
-| **Week 6**        | Magazine      | Magazine Afronden        |                                            |                 |
-| **Kerstvakantie** |               |                          |                                            |                 |
-| **Kerstvakantie** |               |                          |                                            |                 |
-| **Week 7**        | Magazine      | Revisies Verwerken       |                                            |                 |
-| **Week 8**        | Magazine      | Drukklaar Maken          |                                            |                 |
-| **Schakelweek**    |               |                          | Gemiddelde groep & individueel ahv Logboek |                 |
+|                   | **Onderdeel**     | **Niveau** | **Lesstof**                                | **Opdrachten**               | **Beoordeling**             |
+| :---------------- | :---------------- | ---------- | :----------------------------------------- | :--------------------------- | --------------------------- |
+| **Week 1**        | Huisstijl/Bauhaus | 3          | Presentatie Bauhaus & introductie opdracht | Onderzoek bauhaus            |                             |
+| **Week 2**        | Huisstijl/Bauhaus | 3          | Video + boeken Magdalena Droste            | Onderzoek verwerken in Figma | Cijfer                      |
+| **Week 3**        | Huisstijl/Bauhaus | 3          | Opzetten Huistsijl + Logo Design           | Presenteren Onderzoek        |                             |
+| **Week 4**        | Huisstijl/Bauhaus | 3          | Uitleg Figma en InDesign                   |                              |                             |
+| **Week 5**        | Huisstijl/Bauhaus | 3          | Stop & Go  Concept/Onderzoek               |                              |                             |
+| **Week 6**        | Huisstijl/Bauhaus | 3          | Feedback Verwerken                         |                              |                             |
+| **Kerstvakantie** |                   |            |                                            |                              |                             |
+| **Kerstvakantie** |                   |            |                                            |                              |                             |
+| **Week 7**        | Huisstijl/Bauhaus | 3          |                                            |                              |                             |
+| **Week 8**        | Huisstijl/Bauhaus | 3          | Presentaties / Beoordelingen               |                              |                             |
+| **Schakelweek**   |                   |            |                                            |                              | Rubric Cijfer met onderzoek |
 
 
 
 ## Periode 3
 
-|                       | **Onderdeel**          | **Lesstof**                        | **Opdrachten**     | **Beoordeling** |
-| :-------------------- | :--------------------- | :--------------------------------- | :----------------- | --------------- |
-| **Week 1**            | Projectweek            |                                    |                    |                 |
-| **Voorjaarsvakantie** |                        |                                    |                    |                 |
-| **Week 2**            | Introductie Ik-project | Introductie Presentatie Ik-project |                    |                 |
-| **Week 3**            | Ik-project             | Brainstorm + Invullen Matrijs      | Matrijs invullen   |                 |
-| **Week 4**            | Ik-project             | Schets en onderzoek                | Zelfstandig werken |                 |
-| **Week 5**            | Ik-project             | Schets en onderzoek                |                    |                 |
-| **Week 6**            | Ik-project             | Uitwerken                          |                    |                 |
-| **Week 7**            | Ik-project             | Uitwerken                          |                    |                 |
-| **Week 8**            | Ik-project             | Finaliseren en Presenteren         |                    |                 |
-| **Schakelweek**        |                        |                                    |                    | Cijfer          |
+|                       | **Onderdeel** | **Niveau** | **Lesstof**                   | **Opdrachten**                             | **Beoordeling** |
+| :-------------------- | :------------ | ---------- | :---------------------------- | :----------------------------------------- | --------------- |
+| **Week 1**            | Projectweek   | 3          |                               |                                            |                 |
+| **Voorjaarsvakantie** |               | 3          |                               |                                            |                 |
+| **Week 2**            | FashionLabs   | 3          | Introductie Opdracht / Reader | Bezoek Tentoonstelling Shape Textielmuseum |                 |
+| **Week 3**            | FashionLabs   | 3          | Visueel Concept               |                                            |                 |
+| **Week 4**            | FashionLabs   | 3          | Website                       | Zelfstandig werken                         |                 |
+| **Week 5**            | FashionLabs   | 3          | Website                       |                                            |                 |
+| **Week 6**            | FashionLabs   | 3          | Social Media                  |                                            |                 |
+| **Week 7**            | FashionLabs   | 3          | Signage & Plattegrond         |                                            |                 |
+| **Week 8**            | FashionLabs   | 3          | Finaliseren en Presenteren    |                                            |                 |
+| **Schakelweek**       |               |            |                               |                                            | Cijfer          |
 
 
 
 ## Periode 4
 
-|                 | **Onderdeel**                                       | **Lesstof** | **Opdrachten**                               | **Beoordeling** |
-| :-------------- | :-------------------------------------------------- | :---------- | :------------------------------------------- | --------------- |
-| **Week 1**      | Kunst en Vormgeving: Introductie van oudheid tot nu | Presentatie | Bronnenonderzoek                             |                 |
-| **Week 2**      | Museumbezoek                                        |             | Beschouwing 3 werken                         |                 |
-| **Meivakantie** |                                                     |             |                                              |                 |
-| **Meivakantie** |                                                     |             |                                              |                 |
-| **Week 3**      | Romantiek & Impressionisme                          | Presentatie | Onderzoek met grafische uiting uit keuzemenu |                 |
-| **Week 4**      | Futurisme & Kubisme                                 | Presentatie |                                              |                 |
-| **Week 5**      | Art Deco & Art Nouveau                              | Presentatie |                                              |                 |
-| **Week 6**      | Bauhaus & De Stijl                                  | Presentatie |                                              |                 |
-| **Week 7**      | Dada & Postmodernisme                               | Presentatie |                                              |                 |
-| **Week 8**      | Museumbezoek                                        |             |                                              |                 |
-| **Schakelweek**  |                                                     |             |                                              | Cijfer          |
+|                 | **Onderdeel** | **Lesstof**                         | **Opdrachten**     | **Beoordeling** |
+| :-------------- | :------------ | :---------------------------------- | :----------------- | --------------- |
+| **Week 1**      | Street Art    | Presentatie & Introductie opdracht  | 1ste schets        |                 |
+| **Week 2**      | Street Art    |                                     | Mock-up maken      |                 |
+| **Meivakantie** |               |                                     |                    |                 |
+| **Meivakantie** |               |                                     |                    |                 |
+| **Week 3**      | Street Art    | Feedbackronde 1 met MarCom          | Verwerken Feedback |                 |
+| **Week 4**      | Street Art    | Pitch 1ste versie                   | verwerken Feedback |                 |
+| **Week 5**      | Street Art    | Stop & Go                           |                    |                 |
+| **Week 6**      | Street Art    | Finaliseren Voorbereiden Uitwerking |                    |                 |
+| **Week 7**      | Street Art    | Uitwerken Ontwerpen op Blokken      |                    |                 |
+| **Week 8**      | Street Art    | Uitwerken Ontwerpen op Blokken      |                    |                 |
+| **Schakelweek** |               | Presentatie                         |                    | Cijfer          |
