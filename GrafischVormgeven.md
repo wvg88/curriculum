@@ -86,16 +86,16 @@
 
 ## Periode 4
 
-|                 | **Onderdeel** | **Lesstof**                         | **Opdrachten**     | **Beoordeling** |
-| :-------------- | :------------ | :---------------------------------- | :----------------- | --------------- |
-| **Week 1**      | Street Art    | Presentatie & Introductie opdracht  | 1ste schets        |                 |
-| **Week 2**      | Street Art    |                                     | Mock-up maken      |                 |
-| **Meivakantie** |               |                                     |                    |                 |
-| **Meivakantie** |               |                                     |                    |                 |
-| **Week 3**      | Street Art    | Feedbackronde 1 met MarCom          | Verwerken Feedback |                 |
-| **Week 4**      | Street Art    | Pitch 1ste versie                   | verwerken Feedback |                 |
-| **Week 5**      | Street Art    | Stop & Go                           |                    |                 |
-| **Week 6**      | Street Art    | Finaliseren Voorbereiden Uitwerking |                    |                 |
-| **Week 7**      | Street Art    | Uitwerken Ontwerpen op Blokken      |                    |                 |
-| **Week 8**      | Street Art    | Uitwerken Ontwerpen op Blokken      |                    |                 |
-| **Schakelweek** |               | Presentatie                         |                    | Cijfer          |
+|                 | **Onderdeel** | **Niveau** | **Lesstof**                         | **Opdrachten**     | **Beoordeling** |
+| :-------------- | :------------ | ---------- | :---------------------------------- | :----------------- | --------------- |
+| **Week 1**      | Street Art    | 3          | Presentatie & Introductie opdracht  | 1ste schets        |                 |
+| **Week 2**      | Street Art    | 3          |                                     | Mock-up maken      |                 |
+| **Meivakantie** |               | 3          |                                     |                    |                 |
+| **Meivakantie** |               | 3          |                                     |                    |                 |
+| **Week 3**      | Street Art    | 3          | Feedbackronde 1 met MarCom          | Verwerken Feedback |                 |
+| **Week 4**      | Street Art    | 3          | Pitch 1ste versie                   | verwerken Feedback |                 |
+| **Week 5**      | Street Art    | 3          | Stop & Go                           |                    |                 |
+| **Week 6**      | Street Art    | 3          | Finaliseren Voorbereiden Uitwerking |                    |                 |
+| **Week 7**      | Street Art    | 3          | Uitwerken Ontwerpen op Blokken      |                    |                 |
+| **Week 8**      | Street Art    | 3          | Uitwerken Ontwerpen op Blokken      |                    |                 |
+| **Schakelweek** |               |            | Presentatie                         |                    | Cijfer          |
