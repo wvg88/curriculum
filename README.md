@@ -1,46 +1,45 @@
 # Curriculum Grafisch Vormgeven
+*Leerjaar 2024/2025
 
 ## Leerjaar 1
 
-| Vak | Periode 1 | Periode 2 | Periode 3 | Periode 4|
-|---| ---| ---|---|---|
-| **Grafisch Vormgeven** | Introductie | PosterDesign | Website Design | Huisstijl |
-| **Animatie** | Flipboekje | Animate | Illustrator + Animate | Animate|
-| **BeeldBewerkin**g | Photoshop Basis | Selecteren & Maskers | Kleurbewerking | Vrij Project | 
-| **Illustratie** | Tekenen Basis | Illustrator Basis | Illustrator | Character Design | 
-|**Film &  <br>Fotografie**|x|x|Intro Fotografie|Intro Film|
-|**Portfolio**|x|x|x|Adobe Portfolio|
-|**Webdesign**|Basis HTML|Basis CSS|Wordpress/ CMS|Herhaling HTML/CSS|
-|**Layout**|InDesign Basis|Typografie|Grid / Responsive|Herhaling|
+| Vak                        | Periode 1       | Periode 2            | Periode 3                | Periode 4          |
+| -------------------------- | --------------- | -------------------- | ------------------------ | ------------------ |
+| **Grafisch Vormgeven**     | Introductie     | PosterDesign         | Website Design           | Huisstijl          |
+| **Animatie**               | x               | x                    | Flipboekje + Stop Motion | Animate            |
+| **BeeldBewerkin**g         | Photoshop Basis | Selecteren & Maskers | Kleurbewerking           | Vrij Project       |
+| **Illustratie**            | Tekenen Basis   | Illustrator Basis    | Illustrator              | Character Design   |
+| **Film &  <br>Fotografie** | x               | x                    | Intro Fotografie         | Intro Film         |
+| **Portfolio**              | x               | x                    | x                        | Adobe Portfolio    |
+| **Webdesign**              | Basis HTML      | Basis CSS            | Wordpress/ CMS           | Herhaling HTML/CSS |
+| **Layout**                 | InDesign Basis  | Typografie           | Grid / Responsive        | Herhaling          |
 
 ## Leerjaar 2
 
-| Vak  | Periode 1  | Periode 2   |
-|---|---|---|
-|**Grafisch Vormgeven**|BoekOntwerp|PangeaProject/Expositie|
-|**Animatie**|Animate/tweens|Explainer|
-|**Beeld <br>Bewerking**|x|x|
-|**Illustratie**|Character Design|x|
-|**[Film & <br>Fotografie](/Film&Fotografie.md)**|Licht/Portret/Framing|Compositing|
-|**Portfolio**|Website/CV|Website/CV|
-|**Webdesign**|Wordpress|Portfolio|
-|**Interaction  <br>Design**|Transitions||
-|**Project**|Doelgroep / User Centered Design|Design Thinking|
+| Vak                                              | Periode 1                           | Periode 2                 |
+| ------------------------------------------------ | ----------------------------------- | ------------------------- |
+| **Grafisch Vormgeven**                           | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie |
+| **Animatie**                                     | Motion Design                       | After Effects             |
+| **Beeld <br>Bewerking**                          | x                                   | x                         |
+| **Illustratie**                                  | Character Design / Tussen de Regels | Iconen/ Illustratorskills |
+| **[Film & <br>Fotografie](/Film&Fotografie.md)** | Licht/Portret/Framing               | Compositing               |
+| **Portfolio**                                    | Website/CV                          | Website/CV                |
+| **Webdesign**                                    | Wordpress                           | Portfolio                 |
+| **Interaction  <br>Design**                      | WandelApp                           | Festival App              |
+| **Project**                                      | Tussen de regels / Uitwerking       | Festival project          |
 
 ## Leerjaar 3
 
-| Vak  | Periode 1  | Periode 2  | Periode 3   | Periode 4   |
-|---|---|---|---|---|
-|**Grafisch Vormgeven**|Layout/FHJ Magazine|FHJ Magazine|Ik-project|Huisstijl & Verpakking|
-|**Animatie**|x|x|x|x|
-|**BeeldBewerking**|Belichting & Camera|Compositing|‘In de stijl van’|Vrij Project|
-|**[Typografie](/Typografie.md)**|Opmaak Magazines|Classificaties|Letter in de omgeving|Lettertype maken|
-|**[Datavisualisatie](/Datavisualisatie.md)**|Infographic|After Effects|Uitleg Animaties||
-|**Portfolio**|x|Showreel & Portfolio Update|x|x|
-|**Ondernemerschap**|ZZP-Project|x|x|x|
-|**Branding**|Merk Identiteit / kernwaarden|Markt Onderzoek / positionering|Campagne|Combi met Grafisch Vormgeven|
-|**Innovatie**|x|x|Smart Start-Up Lite|Projecties Fashion Lab / Samenwerking opleiding mode|
-|**Project**|x|x|x|Overkoepelend Project met CCR / Toekomst-Media & Content|
+| Vak                                          | Periode 1                                | Periode 2                   | Periode 3         | Periode 4        |
+| -------------------------------------------- | ---------------------------------------- | --------------------------- | ----------------- | ---------------- |
+| **Grafisch Vormgeven**                       | Graphic Matters opdrachten               | Huisstijl Advocaten         | FashionLabs       | StreetArt        |
+| **Animatie**                                 | After Effects                            | After Effects               | x                 | x                |
+| **BeeldBewerking**                           | Letter in de omgeving                    | Compositing                 | ‘In de stijl van’ | Vrij Project     |
+| **[Typografie](/Typografie.md)**             | Lettertype Maken                         | Magazine Opmaak en Layout   | Classificaties    | TextAnimaties    |
+| **[Datavisualisatie](/Datavisualisatie.md)** | x                                        | x                           | Infographics      | ExamenBureau     |
+| **Portfolio**                                | x                                        | Showreel & Portfolio Update | x                 | x                |
+| **Branding**                                 | Nieuwe Markten                           | Craze Kids Loyalty          | Fast Fashion      | Ikea Opdracht    |
+| **Project**                                  | Graphic Matters / Tussen aanhalingtekens | ZZP-Project                 | Ik-project        | Berlijn Reisgids |
 
 
 
