@@ -1,32 +1,31 @@
 # Curriculum Grafisch Vormgeven
-*Leerjaar 2024/2025
+*Leerjaar 2025/2026*
 
 ## Leerjaar 1
 
-| Vak                        | Periode 1       | Periode 2            | Periode 3                | Periode 4          |
-| -------------------------- | --------------- | -------------------- | ------------------------ | ------------------ |
-| **Grafisch Vormgeven**     | Introductie     | PosterDesign         | Website Design           | Huisstijl          |
-| **Animatie**               | x               | x                    | Flipboekje + Stop Motion | Animate            |
-| **BeeldBewerkin**g         | Photoshop Basis | Selecteren & Maskers | Kleurbewerking           | Vrij Project       |
-| **Illustratie**            | Tekenen Basis   | Illustrator Basis    | Illustrator              | Character Design   |
-| **Film &  <br>Fotografie** | x               | x                    | Intro Fotografie         | Intro Film         |
-| **Portfolio**              | x               | x                    | x                        | Adobe Portfolio    |
-| **Webdesign**              | Basis HTML      | Basis CSS            | Wordpress/ CMS           | Herhaling HTML/CSS |
-| **Layout**                 | InDesign Basis  | Typografie           | Grid / Responsive        | Herhaling          |
+| Vak                        | Periode 1 <br> Bauhaus            | Periode 2   <br> De Stijl                    | Periode 3 <br>  Art Nouveau | Periode 4  <br>  Futurisme |
+| -------------------------- | --------------------------------- | -------------------------------------------- | --------------------------- | -------------------------- |
+| **Grafisch Vormgeven**     | Roots kleurentheorie Logo Lexicon | Gestalt, Semiotiek(light), serif, sans-serif | Problemen oplossen          | Huisstijl                  |
+| **Animatie**               | x                                 | x                                            | Flipboekje + Stop Motion    | Animate                    |
+| **BeeldBewerking**         | Photoshop Basis                   | Selecteren & Maskers                         | Kleurbewerking              | Vrij Project               |
+| **Illustratie**            | Tekenen Basis                     | Illustrator Basis                            | Illustrator                 | Character Design           |
+| **Film &  <br>Fotografie** | Intro Fotografie                  | Intro Film                                   |                             |                            |
+| **Portfolio**              | x                                 | x                                            | x                           | Adobe Portfolio            |
+| **Webdesign**              | Basis HTML                        | Basis CSS                                    | Wordpress/ CMS              | Herhaling HTML/CSS         |
+| **Layout**                 | InDesign Basis                    | Typografie                                   | Grid / Responsive           | Herhaling                  |
 
 ## Leerjaar 2
 
-| Vak                                              | Periode 1                           | Periode 2                 |
-| ------------------------------------------------ | ----------------------------------- | ------------------------- |
-| **Grafisch Vormgeven**                           | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie |
-| **Animatie**                                     | Motion Design                       | After Effects             |
-| **Beeld <br>Bewerking**                          | x                                   | x                         |
-| **Illustratie**                                  | Character Design / Tussen de Regels | Iconen/ Illustratorskills |
-| **[Film & <br>Fotografie](/Film&Fotografie.md)** | Licht/Portret/Framing               | Compositing               |
-| **Portfolio**                                    | Website/CV                          | Website/CV                |
-| **Webdesign**                                    | Wordpress                           | Portfolio                 |
-| **Interaction  <br>Design**                      | WandelApp                           | Festival App              |
-| **Project**                                      | Tussen de regels / Uitwerking       | Festival project          |
+| Vak                         | Periode 1                           | Periode 2                 |
+| --------------------------- | ----------------------------------- | ------------------------- |
+| **Grafisch Vormgeven**      | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie |
+| **Animatie**                | Motion Design                       | After Effects             |
+| **Beeld <br>Bewerking**     | x                                   | x                         |
+| **Illustratie**             | Character Design / Tussen de Regels | Iconen/ Illustratorskills |
+| **Portfolio**               | Website/CV                          | Website/CV                |
+| **Webdesign**               | Wordpress                           | Portfolio                 |
+| **Interaction <br>Design** | WandelApp                           | Festival App              |
+| **Project**                 | Tussen de regels / Uitwerking       | Festival project          |
 
 ## Leerjaar 3
 

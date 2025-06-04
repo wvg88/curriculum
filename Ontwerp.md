@@ -2,17 +2,17 @@
 *Web leerjaar 2 2024/2025*
 
 ###	Interactiondesign
-Software: Figma, Lottiefiles?, Visual Studio Code, P5.js
+Software: Figma, Visual Studio Code, P5.js
 -	SVG Animatie
 -   Smart animate / Auto Animate
 -   Easing
 -   CSS Animaties
 
 ### Grafisch Vormgeven 
-Software: Illustrator, Figma
+Software: Figma
 
 ###	Interface 
-Software: Illustrator, Webapp: svg-paths, Visual Studio Code
+Software:  Webapp: svg-paths, Visual Studio Code
 -	SVG
 -	Iconen en interface elementen
 -   Wireframes
@@ -25,10 +25,10 @@ Software: Webapp: draw.io
 -   Database ontwerp
 -   Git & Github
 
-|| Periode 1  | Periode 2  | Periode 3  | Periode 4  |
-|---|:---:|:---:|:---:|:---:|
-|**Onderwerp**|Skills|Eigen project / Skills |Webshop| App design|
-|**Uur per Week**|6|6|6|6|
+|                  |    Periode 1    | Periode 2 |    Periode 3    | Periode 4  |
+| ---------------- | :-------------: | :-------: | :-------------: | :--------: |
+| **Onderwerp**    | SVG & Portfolio |  Webshop  | Creative Coding | App design |
+| **Uur per Week** |        6        |     6     |        6        |     6      |
 
 Onderdelen voor Ontwerp: Skills (Adobe Skills, Creative Coding), Projecten, Vrij Project, DataVisualisatie, Software Ontwerp, Testen, User Experience, Branding
 
@@ -50,24 +50,8 @@ Onderdelen voor Ontwerp: Skills (Adobe Skills, Creative Coding), Projecten, Vrij
 | **Schakelweek**    |                        |                                            |                           | 8/8             |
 
 
+
 ## Periode 2
-
-|                   | **Onderdeel**   | **Lesstof**                 | **Opdrachten**   | **Beoordeling** |
-| :---------------- | :-------------- | :-------------------------- | :--------------- | --------------- |
-| **Week 1**        | Creative Coding | Kick-off Project            | Online Tutorials | 1/8             |
-| **Week 2**        | Creative Coding | Experimenten                | Experimenteren   |                 |
-| **Week 3**        | Creative Coding | Oplevering                  |                  | 2/8             |
-| **Week 4**        | SideProject     | Kick-off project            | Matrijs          | 1/8             |
-| **Week 5**        | SideProject     | Experimenteren              |                  |                 |
-| **Week 6**        | SideProject     | Experimenteren              |                  |                 |
-| **Kerstvakantie** |                 |                             |                  |                 |
-| **Kerstvakantie** |                 |                             |                  |                 |
-| **Week 7**        | SideProject     | Werken naar presentatie toe |                  |                 |
-| **Week 8**        | SideProject     | Presentatie Project         |                  | 4/8             |
-| **Schakelweek**   |                 |                             |                  | 8/8             |
-
-
-## Periode 3
 
 |                       | **Onderdeel**                       | **Lesstof**                        | **Opdrachten**                 | **Beoordeling** |
 | --------------------- | ----------------------------------- | ---------------------------------- | ------------------------------ | --------------- |
@@ -82,6 +66,23 @@ Onderdelen voor Ontwerp: Skills (Adobe Skills, Creative Coding), Projecten, Vrij
 | **Week 8**            | Webshop / Testen & Afronden         | Ontwikkelen                        |                                |                 |
 | **Week 9**            | Webshop / Oplevering & Preseentatie |                                    |                                | 4/8             |
 | **Schakelweek**       |                                     |                                    |                                | 8/8             |
+
+
+## Periode 3
+
+|                   | **Onderdeel**   | **Lesstof**                 | **Opdrachten**   | **Beoordeling** |
+| :---------------- | :-------------- | :-------------------------- | :--------------- | --------------- |
+| **Week 1**        | Creative Coding | Kick-off Project            | Online Tutorials | 1/8             |
+| **Week 2**        | Creative Coding | Experimenten                | Experimenteren   |                 |
+| **Week 3**        | Creative Coding | Oplevering                  |                  | 2/8             |
+| **Week 4**        | SideProject     | Kick-off project            | Matrijs          | 1/8             |
+| **Week 5**        | SideProject     | Experimenteren              |                  |                 |
+| **Week 6**        | SideProject     | Experimenteren              |                  |                 |
+| **Kerstvakantie** |                 |                             |                  |                 |
+| **Kerstvakantie** |                 |                             |                  |                 |
+| **Week 7**        | SideProject     | Werken naar presentatie toe |                  |                 |
+| **Week 8**        | SideProject     | Presentatie Project         |                  | 4/8             |
+| **Schakelweek**   |                 |                             |                  | 8/8             |
 
 
 ## Periode 4
