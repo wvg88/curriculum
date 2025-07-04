@@ -32,20 +32,20 @@
 
 ## Periode 1
 
-|                    | **Onderdeel**   | **Niveau**                                            | **Lesstof**                 | **Opdrachten** | **Beoordeling** |
-| ------------------ | --------------- | ----------------------------------------------------- | --------------------------- | -------------- | --------------: |
-| **Week 1**         | Kick-off Week   | 3                                                     | Nul-meting- skills opdracht |                |                 |
-| **Week 2**         | Graphic Matters | 3                                                     | Kick-off Graphic Matters    | Letterproef    |                 |
-| **Week 3**         | Graphic Matters | 3                                                     | Word as Image               | Word as Image  |                 |
-| **Week 4**         | Graphic Matters | 3                                                     | Lelijk/Mooi                 | Lelijk/Mooi    |                 |
-| **Week 5**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
-| **Week 6**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
-| **Week 7**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
-| **Week 8**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |                 |
-| **Herfstvakantie** |                 |                                                       |                             |                |                 |
-| **Week 9**         | Graphic Matters | 3                                                     | Zelfstandig werken          |                |          Cijfer |
-| **Schakelweek**    | Graphic Matters | Presentatie Poster van project Tussen aanhalingtekens | Presentatie                 |                |   Cijfer Poster |
-|                    |                 |                                                       |                             |                |                 |
+|                    | **Onderdeel**   | **Niveau** | **Lesstof**                 | **Opdrachten** | **Beoordeling** |
+| ------------------ | --------------- | ---------- | --------------------------- | -------------- | --------------: |
+| **Week 1**         | Kick-off Week   | 3          | Nul-meting- skills opdracht |                |                 |
+| **Week 2**         | Graphic Matters | 3          | Kick-off Graphic Matters    | Letterproef    |                 |
+| **Week 3**         | Graphic Matters | 3          | Word as Image               | Word as Image  |                 |
+| **Week 4**         | Graphic Matters | 3          | Lelijk/Mooi                 | Lelijk/Mooi    |                 |
+| **Week 5**         | Graphic Matters | 3          | Zelfstandig werken          |                |                 |
+| **Week 6**         | Graphic Matters | 3          | Zelfstandig werken          |                |                 |
+| **Week 7**         | Graphic Matters | 3          | Zelfstandig werken          |                |                 |
+| **Week 8**         | Graphic Matters | 3          | Zelfstandig werken          |                |                 |
+| **Herfstvakantie** |                 |            |                             |                |                 |
+| **Week 9**         | Graphic Matters | 3          | Zelfstandig werken          |                |          Cijfer |
+| **Schakelweek**    | Presentatie     | 3          | Presentatie                 |                |   Cijfer Poster |
+|                    |                 |            |                             |                |                 |
 
 
 

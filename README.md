@@ -6,10 +6,10 @@
 | Vak                        | Periode 1 <br> Bauhaus            | Periode 2   <br> De Stijl                    | Periode 3 <br>  Art Nouveau | Periode 4  <br>  Futurisme |
 | -------------------------- | --------------------------------- | -------------------------------------------- | --------------------------- | -------------------------- |
 | **Grafisch Vormgeven**     | Roots kleurentheorie Logo Lexicon | Gestalt, Semiotiek(light), serif, sans-serif | Problemen oplossen          | Huisstijl                  |
-| **Animatie**               | x                                 | x                                            | Flipboekje + Stop Motion    | Animate                    |
+| **Animatie**               | Flipboekje + Stop Motion          | Animate                                      | x                           | x                          |
 | **BeeldBewerking**         | Photoshop Basis                   | Selecteren & Maskers                         | Kleurbewerking              | Vrij Project               |
 | **Illustratie**            | Tekenen Basis                     | Illustrator Basis                            | Illustrator                 | Character Design           |
-| **Film &  <br>Fotografie** | Intro Fotografie                  | Intro Film                                   |                             |                            |
+| **Film &  <br>Fotografie** | x                                 | x                                            | Intro Fotografie            | Intro Film                 |
 | **Portfolio**              | x                                 | x                                            | x                           | Adobe Portfolio            |
 | **Webdesign**              | Basis HTML                        | Basis CSS                                    | Wordpress/ CMS              | Herhaling HTML/CSS         |
 | **Layout**                 | InDesign Basis                    | Typografie                                   | Grid / Responsive           | Herhaling                  |
