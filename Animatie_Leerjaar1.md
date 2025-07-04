@@ -1,66 +1,55 @@
-# Leerlijn Animatie
+# Jaarlijn Animatie
+*leerjaar 1 2025/2026*
 
-|                  | Periode 1 | Periode 2 |   Periode 3    | Periode 4 |
-| ---------------- | :-------: | :-------: | :------------: | :-------: |
-| **Onderwerp**    |     x     |     x     | Frame-by-Frame |  Animate  |
-| **Uur per Week** |     x     |     x     |       2        |     2     |
+|                  |   Periode 1    | Periode 2 | Periode 3 | Periode 4 |
+| ---------------- | :------------: | :-------: | :-------: | :-------: |
+| **Onderwerp**    | Frame-by-Frame |  Animate  |     x     |     x     |
+| **Uur per Week** |       2        |     2     |     x     |     x     |
 
-## Werkprocessen
-| Werkproces | Beschrijving |
-|------------|--------------|
-| Ontwikkelt crossmediale (vormgeef)oplossingen | Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context, formuleert de voorlopige en definitieve mediavraag van de klant, voert de dialoog over duiding en vertaling van de input, informeert en betrekt belanghebbenden, maakt prototypes, realiseert de vormgeving, voert projectmatige werkzaamheden uit |
-| Positioneert en profileert zich in de markt | Maakt een persoonlijk portfolio, participeert in relevant netwerk (communicatief en commercieel) |
+#### Werkprocessen
 
-## Jaarlijn
+1. Ontwikkelt crossmediale (vormgeef)oplossingen
+    - Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van het ontwikkelproces
+    - Realiseert de vormgeving voor crossmediale toepassingen
+    - Voert projectmatige werkzaamheden uit 
 
-### Periode 1: Inleiding tot Animatie (8 weken)
-| Week | Onderwerp | Beschrijving |
-|------|-----------|--------------|
-| 1-2 | |
-| 3-4 | Oefeningen in squash en stretch, anticipatie, en timing | Praktische oefeningen om de principes toe te passen |
-| 5-6 | Introductie tot animatiesoftware | Kennismaking met software zoals Adobe Animate en Blender |
-| 7-8 | Kleine animatieoefeningen | Praktische toepassing van de principes |
-
-### Periode 2: Karakteranimatie (8 weken)
-| Week | Onderwerp | Beschrijving |
-|------|-----------|--------------|
-| 1-2 | Ontwerpen van eenvoudige karakters | Leer hoe je eenvoudige karakters ontwerpt |
-| 3-4 | Animatietechnieken voor karakterbewegingen | Technieken om karakterbewegingen te animeren |
-| 5-6 | Storyboarding en planning van animaties | Leer storyboards te maken en animaties te plannen |
-| 7-8 | Korte karakteranimatie | Een korte animatie van een karakter |
-
-### Periode 3: Geavanceerde Animatietechnieken (8 weken)
-| Week | Onderwerp | Beschrijving |
-|------|-----------|--------------|
-| 1-2 | Inleiding tot de 12 principes van animatie | Leer de basisprincipes van animatie kennen |
-| 3-4 | Introductie tot 3D-animatie | Kennismaking met 3D-animatie |
-| 5-6 | Samenwerking in animatieteams | Leer hoe je in een team kunt samenwerken |
-| 7-8 | Geavanceerd animatieproject | Een complex animatieproject |
+2. Positioneert en profileert zich in de markt
+	- Maakt een persoonlijk portfolio
 
 
-## Periode 3
 
-|                       | **Onderdeel**  | **Niveau** | **Lesstof**                                | **Opdrachten**     | **Beoordeling** |
-| :-------------------- | :------------- | ---------- | :----------------------------------------- | :----------------- | --------------- |
-| **Week 1**            | Frame-by-frame | 1          | Inleiding tot de 12 principes van animatie | Flipboekje         |                 |
-| **Voorjaarsvakantie** |                | 1          |                                            |                    |                 |
-| **Week 2**            | Frame-by-frame | 1          | FPS en toepassen principes                 | Flipboekje         |                 |
-| **Week 3**            | Frame-by-frame | 1          | Planning in animatie                       | Stop Motion        |                 |
-| **Week 4**            | Frame-by-frame | 1          | Stop Motion                                | Zelfstandig werken |                 |
-| **Week 5**            | Frame-by-frame | 1          |                                            |                    |                 |
-| **Week 6**            | Frame-by-frame | 1          |                                            |                    |                 |
-| **Week 7**            | Frame-by-frame | 1          |                                            |                    |                 |
-| **Week 8**            | Frame-by-frame | 1          |                                            |                    |                 |
-| **Schakelweek**       |                |            |                                            |                    | Cijfer          |
+## Periode 1 - Frame by Frame 
+
+| **Week**              | **Onderdeel**  | **Niveau** | **Lesstof**               | **Opdrachten**       | **Beoordeling** |
+| :-------------------- | :------------- | ---------- | :------------------------ | :------------------- | --------------- |
+| 1                     | Frame-by-frame | 1          | Introductie               | Flipboekje           |                 |
+| **Voorjaarsvakantie** |                | 1          |                           |                      |                 |
+| 2                     | Frame-by-frame | 1          | 12 animatieprincipes: 1/3 | Flipboekje           |                 |
+| 3                     | Frame-by-frame | 1          | Planning in animatie      | Stop Motion          |                 |
+| 4                     | Frame-by-frame | 1          | Stop Motion               | Zelfstandig werken   |                 |
+| 5                     | Vrije Animatie | 1          | Concepting                | Inspiratie/onderzoek |                 |
+| 6                     | Vrije Animatie | 1          | Storyboard                | Storyboard           |                 |
+| 7                     | Vrije Animatie | 1          | Zelfstandig Werken        |                      |                 |
+| 8                     | Vrije Animatie | 1          | Presentatie               |                      |                 |
+| **Schakelweek**       |                |            |                           |                      | Cijfer          |
 
 
-### Periode 4: Portfolio en Afstudeerproject (8 weken)
-| Week | Onderwerp                            | Beschrijving                                          |
-| ---- | ------------------------------------ | ----------------------------------------------------- |
-| 1-2  | Animate                              | Leer hoe je een portfolio samenstelt                  |
-| 3-4  | Werken aan een afstudeerproject      | Een project dat alle geleerde vaardigheden integreert |
-| 5-6  | Presentatie van het afstudeerproject | Presentatie van het afstudeerproject                  |
-| 7-8  | Portfolio-beoordeling                | Beoordeling van het portfolio                         |
+## Periode 2 - Animate
+
+| **Week**        | **Onderdeel** | **Niveau** | **Lesstof**        | **Opdrachten**    | **Beoordeling** |
+| :-------------- | :------------ | ---------- | :----------------- | :---------------- | --------------- |
+| 1               | Animate       | 1          | Keyframes & Tweens | Vliegtuigen       |                 |
+| **Meivakantie** |               | 1          |                    |                   |                 |
+| **Meivakantie** |               | 1          |                    |                   |                 |
+| 2               | Animate       | 1          | Motion on Path     | Vliegtuigen       |                 |
+| 3               | Animate       | 1          | Assets & library   | Skyline Amsterdam |                 |
+| 4               | Animate       | 1          |                    | Skyline Amsterdam |                 |
+| 5               | Animate       | 1          | Cutout Animatie    | Rijksmuseum       |                 |
+| 6               | Animate       | 1          |                    |                   |                 |
+| 7               | Animate       | 1          |                    |                   |                 |
+| 8               |               | 1          |                    |                   |                 |
+| **Schakelweek** |               |            |                    |                   | Cijfer          |
+
 
 ## Algemene Beoordelingscriteria
 | Criterium | Beschrijving |

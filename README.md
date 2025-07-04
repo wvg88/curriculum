@@ -19,7 +19,7 @@
 | Vak                        | Periode 1  <br>  De Romantiek       | Periode 2  <br> Tegencultuur |
 | -------------------------- | ----------------------------------- | ---------------------------- |
 | **Grafisch Vormgeven**     | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie    |
-| **Animatie**               | Motion Design                       | After Effects                |
+| **Animatie**               | Motion Design Intro After Effects   | After Effects                |
 | **Beeld <br>Bewerking**    | x                                   | x                            |
 | **Illustratie**            | Character Design / Tussen de Regels | Iconen/ Illustratorskills    |
 | **Portfolio**              | Website/CV                          | Website/CV                   |

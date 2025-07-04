@@ -1,11 +1,11 @@
 # Leerlijn Grafisch Vormgeven
-*GVO Leerjaar 3 2024/2025*
-*Cohort 2022*
+*GVO Leerjaar 3 2025/2026*
+*Cohort 2023*
 
-|                  |                 Periode 1                 |         Periode 2          |       Periode 3       | Periode 4  |
-| ---------------- | :---------------------------------------: | :------------------------: | :-------------------: | :--------: |
-| **Onderwerp**    | Graphic Matters / Tussen Aanhalingstekens | Huisstijl Advocatenkantoor | Huisstijl FashionLabs | Street Art |
-| **Uur per Week** |                     6                     |             6              |           6           |     6      |
+|                  |       Periode 1        |         Periode 2          |       Periode 3       | Periode 4  |
+| ---------------- | :--------------------: | :------------------------: | :-------------------: | :--------: |
+| **Onderwerp**    | Graphic Matters / Stop | Huisstijl Advocatenkantoor | Huisstijl FashionLabs | Street Art |
+| **Uur per Week** |           6            |             6              |           6           |     6      |
 
 
 
@@ -17,7 +17,7 @@
 	- Formuleert de voorlopige en definitieve mediavraag van de klant (P2,P3,P4)
 	- Voert de dialoog over duiding en vertaling van de input (P2,P3,P4)
 	- Informeert en betrekt belanghebbenden op verschillende momenten in het crossmediale ontwikkeltraject (P3,P4)
-	- Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van  het ontwikkelproces (P1,P3,P4)
+	- Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van het ontwikkelproces (P1,P3,P4)
 	- Realiseert de vormgeving voor crossmediale toepassingen (P1,P2,P3,P4)
 	- Voert projectmatige werkzaamheden uit (P1,P2,P3,P4)
 
@@ -30,7 +30,7 @@
 
 
 
-## Periode 1
+## Periode 1 - Graphic Matters
 
 |                    | **Onderdeel**   | **Niveau** | **Lesstof**                 | **Opdrachten** | **Beoordeling** |
 | ------------------ | --------------- | ---------- | --------------------------- | -------------- | --------------: |
@@ -49,7 +49,7 @@
 
 
 
-## Periode 2
+## Periode 2 - Huisstijl
 
 |                   | **Onderdeel**     | **Niveau** | **Lesstof**                                | **Opdrachten**               | **Beoordeling**             |
 | :---------------- | :---------------- | ---------- | :----------------------------------------- | :--------------------------- | --------------------------- |
@@ -67,7 +67,7 @@
 
 
 
-## Periode 3
+## Periode 3 - Event
 
 |                       | **Onderdeel** | **Niveau** | **Lesstof**                   | **Opdrachten**                             | **Beoordeling** |
 | :-------------------- | :------------ | ---------- | :---------------------------- | :----------------------------------------- | --------------- |
@@ -84,7 +84,7 @@
 
 
 
-## Periode 4
+## Periode 4 - Creatief Concept & Uitvoering
 
 |                 | **Onderdeel** | **Niveau** | **Lesstof**                         | **Opdrachten**     | **Beoordeling** |
 | :-------------- | :------------ | ---------- | :---------------------------------- | :----------------- | --------------- |

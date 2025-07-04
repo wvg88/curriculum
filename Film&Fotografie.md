@@ -18,36 +18,40 @@
 
 
 
-## Periode 3
+## Periode 3 - (studio)Fotografie
 
-|                    | **Onderdeel**     | **Lesstof**                        | **Opdrachten**     | **Beoordeling** |
-| ------------------ | ----------------- | ---------------------------------- | ------------------ | --------------: |
-| **Week 1**         | Introductie       | Presentatie                        | Intro opdracht     |               - |
-| **Week 2**         | Werken met licht  | Bekijken werk studenten            |                    |          Cijfer |
-| **Week 3**         | Portret           | Presentatie / <br> Studio Workshop |                    |                 |
-| **Week 4**         | Framing 1/2       | Uitwerking opdracht                | Opleiding in beeld |          Cijfer |
-| **Week 5**         | Framing           |                                    |                    |          Cijfer |
-| **Week 6**         | Framing 2/2       | Instructie                         | Beroep in beeld    |                 |
-| **Week 7**         | Framing           | Uitwerking Opdracht                |                    |                 |
-| **Herfstvakantie** |                   |                                    |                    |                 |
-| **Week 8**         | Framing           | Bekijken werk studenten            |                    |          Cijfer |
-| **Week 9**         | Scherpte / diepte | Presentatie/demonstratie           | Scherpte diepte    |          Cijfer |
-| **Kantelweek**     |                   |                                    |                    |      Gemiddelde |
+**Duur:** 26-01-2026 t/m 06-04-2026
+
+| **Week**              | **Onderdeel**     | **Lesstof**                           | **Opdrachten**  | **Beoordeling** |
+| --------------------- | ----------------- | ------------------------------------- | --------------- | --------------: |
+| 1                     | Introductie       | Presentatie / <br> Studio Workshop    | FashionFoto     |          Cijfer |
+| 2                     | High Key Low Key  | Presentatie + werk studenten feedback | Highkey Lowkey  |          Cijfer |
+| 3                     | Texturen          | Presentatie + werk studenten feedback | Textuur& Detail |          Cijfer |
+| **Voorjaarsvakantie** |                   |                                       |                 |                 |
+| 4                     | Tegenlicht        | Presentatie + werk studenten feedback | Silhouette      |          Cijfer |
+| 5                     | Gekleurd licht    | Presentatie + werk studenten feedback | Kleur           |          Cijfer |
+| 6                     | Schaduw           | Presentatie + werk studenten feedback | Schaduw         |          Cijfer |
+| 7                     | Framing           | Uitwerking Opdracht                   |                 |                 |
+| 8                     | Framing           | Bekijken werk studenten               |                 |          Cijfer |
+| 9                     | Scherpte / diepte | Presentatie/demonstratie              | Scherpte diepte |          Cijfer |
+| **Kantelweek**        |                   |                                       |                 |      Gemiddelde |
 
 
-## Periode 4
+## Periode 4 - Film, Editen & Nabewerking
 
-|                   | **Onderdeel**                                | **Lesstof**                         | **Opdrachten**                         | **Beoordeling** |
-| ----------------- | -------------------------------------------- | ----------------------------------- | -------------------------------------- | --------------: |
-| **Week 1**        | Bestandsformaten <br> \ resolutie en formaat | Presentatie RAW JPG                 | Foto printen juiste formaat en bestand |                 |
-| **Week 2**        | Greenscreen                                  | Presentatie Compositing & VFX       | Sci-fi opdracht                        |          Cijfer |
-| **Week 3**        | Greenscreen                                  | Filmen                              | Sci-fi opdracht                        |                 |
-| **Week 4**        | Greenscreen                                  | Montage & Nabewerking               | Sci-fi opdracht                        |          Cijfer |
-| **Week 5**        | Compositing/ Motion Tracking                 | Presentatie                         | Explainer:<br> Data in Beeld           |                 |
-| **Week 6**        | Compositing/ Motion Tracking                 | Uitwerken Opdracht                  | Explainer                              |                 |
-| **Kerstvakantie** |                                              |                                     |                                        |                 |
-| **Kerstvakantie** |                                              |                                     |                                        |                 |
-| **Week 7**        | Compositing/ Motion Tracking                 | Uitwerken Opdracht                  | Explainer                              |                 |
-| **Week 8**        | Compositing                                  | Première/Presentatie werk studenten | Explainer                              |          Cijfer |
-| **Kantelweek**    |                                              |                                     |                                        |      Gemiddelde |
+**Duur:** 13-04-2026 t/m 26-06-2026
+
+| **Week**        | **Onderdeel**                | **Lesstof**                         | **Opdrachten**               | **Beoordeling** |
+| --------------- | ---------------------------- | ----------------------------------- | ---------------------------- | --------------: |
+| 1               | Basis editen                 | Presentatie RAW JPG                 | Creatieve edit               |          Cijfer |
+| **Meivakantie** |                              |                                     |                              |                 |
+| **Meivakantie** |                              |                                     |                              |                 |
+| 2               | Greenscreen                  | Presentatie Compositing & VFX       | Sci-fi opdracht              |          Cijfer |
+| 3               | Greenscreen                  | Filmen                              | Sci-fi opdracht              |                 |
+| 4               | Greenscreen                  | Montage & Nabewerking               | Sci-fi opdracht              |          Cijfer |
+| 5               | Compositing/ Motion Tracking | Presentatie                         | Explainer:<br> Data in Beeld |                 |
+| 6               | Compositing/ Motion Tracking | Uitwerken Opdracht                  | Explainer                    |                 |
+| 7               | Compositing/ Motion Tracking | Uitwerken Opdracht                  | Explainer                    |                 |
+| 8               | Compositing                  | Première/Presentatie werk studenten | Explainer                    |          Cijfer |
+| **Kantelweek**  |                              |                                     |                              |      Gemiddelde |
 
