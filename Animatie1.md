@@ -1,5 +1,5 @@
-# Jaarlijn Animatie
-*leerjaar 1 2025/2026*
+# Leerlijn Animatie 1
+*GVO leerjaar 1 2025/2026*
 
 |                  |   Periode 1    | Periode 2 | Periode 3 | Periode 4 |
 | ---------------- | :------------: | :-------: | :-------: | :-------: |

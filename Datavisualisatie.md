@@ -1,75 +1,82 @@
-# Leerlijn DataVisualisatie 
-*GVO Leerjaar 3 2023/24*
-
-|| Periode 1  | Periode 2  | Periode 3  | Periode 4  |
-|---|:---:|:---:|:---:|:---:|
-|**Onderwerp**|Infographics|Animatie/ After Effects|Samenwerking Web|Explanimation|
-|**Uur per Week**|3|3|3|3|
 
 
-
-#### Werkprocessen:
-
-- Maakt prototypes voor de vormgeving van crossmediale toepassingen in verschillende fasen van  het ontwikkelproces
-- Onderzoekt data/gegevens en vormt zich gaandeweg een beeld van de context
-- Realiseert de vormgeving voor crossmediale toepassingen
+# Leerlijn Datavisualisatie
+*GVO Leerjaar 3 – Schooljaar 2025/2026*
 
 
+|                  |     Periode 3     |           Periode 4            |
+| ---------------- | :---------------: | :----------------------------: |
+| **Onderwerp**    | Informatie & Data | Kritisch Ontwerpen / Explainer |
+| **Uur per Week** |         3         |               3                |
 
+---
 
-## Periode 1
+## ✦ Thema’s in de leerlijn
 
-|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**
-|---|---|---|---|---:|
-|**Week 1**|Introductie DataVisualisatie| Presentatie | ||
-|**Week 2**|Persoonlijke DataVisualisatie|Dear Data| Infographic |Cijfer|
-|**Week 3**|Persoonlijke Datavisualisatie|Dear Data| |-
-|**Week 4**|
-|**Week 5**||||
-|**Week 6**|Hiërarchie in informatie|| Infographic 7 Kernwaarden|-
-|**Week 7**||||
-|**Herfstvakantie**|
-|**Week 8**|||Infographic Tilburg|Cijfer
-|**Week 9**||||
-|**Schakelweek**|   |   |   |
+* **Informatie & Data**: werken met datasets, analyseren en visualiseren van informatie, overzicht creëren
+* **Kritisch Ontwerpen**: manipulatie, framing en ethiek in datavisualisatie, kritisch kijken en bewust presenteren
 
+---
 
-## Periode 2
+## 🌐 Periode 3: Informatie & Data
 
-|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**|
-|---|---|---|---|---:|
-|**Week 1**|Animatie|12 Principes Intro Animatie| Brush Ninja|
-|**Week 2**|AdobeXD|PrivacyPresentatie|Interactieve Infograph|
-|**Week 3**|AdobeXD|Werken Opdracht|Interactieve Infograph|Cijfer|
-|**Week 4**|After Effects/Compositing|Bekijken Werk Studenten|WhiteboardAnimatie/Explainer ala NOSop3|
-|**Week 5**|After Effects|Uitwerking Opdracht|WhiteboardAnimatie/Explainer|
-|**Week 6**|After Effects|Presentatie Studenten||Cijfer
-|**Kerstvakantie**|
-|**Kerstvakantie**|
-|**Week 7**|After Effects|Presentatie|Kurzgesagt animatie|
-|**Week 8**|After Effects||Kurzgesagt Animatie|Cijfer
-|**Kantelweek**||||
+**Duur:** 26-01-2026 t/m 06-04-2026
+**Focus:** *Verkennen van data, visuele analyse, data naar beeld vertalen*
 
-## Periode 3
+| Week                  | Onderdeel                | Lesstof / Theorie                                     | Opdrachten                                            | Beoordeling |
+| --------------------- | ------------------------ | ----------------------------------------------------- | ----------------------------------------------------- | ----------- |
+| Intro                 | Start van het project    | Wat is datavisualisatie? Voorbeelden & impact         | Inspiratie verzamelen & moodboard                     |             |
+| Week 1                | Data vinden & selecteren | Betrouwbare bronnen, open data, relevante data kiezen | Kies een dataset uit (Kaggle, CBS, Our World in Data) |             |
+| Week 2                | Data analyseren          | Statistische basis, patronen herkennen                | Analyse van de dataset + insight map                  |             |
+| Week 3                | Tools & technieken       | Excel, RAWGraphs, Datawrapper – basiskennis           | Maak 3 conceptuele visualisaties                      | 5/10        |
+| **Voorjaarsvakantie** |                          |                                                       |                                                       |             |
+| Week 4                | Visual encoding          | Vorm en betekenis, kleurgebruik, typografie           | Styleguide + begin opzet infographic                  |             |
+| Week 5                | Prototyping              | Van concept naar schets, feedback verwerken           | Lay-out & compositie ontwerp infographic              |             |
+| Week 6                | Eindfase                 | Presentatie klaarmaken, export, onderbouwing          | Eindproduct + rationale afronden                      |             |
+| Schakelweek           | Presenteren & beoordelen | Mondeling + schriftelijke toelichting                 | Posterpresentatie / digitale expositie                | Cijfer      |
 
-|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**|
-|---|---|---|---|---|
-|**Week 1**||  | |
-|**Week 2**||||
-|**Week 3**||||
-|**Week 4**||||
-|**Week 5**||||
-|**Week 6**||||
-|**Week 7**||||
+---
 
-## Periode 4
+## 🧠 Periode 4: Kritisch Ontwerpen
 
-|   |  **Onderdeel** | **Lesstof**  | **Opdrachten**  | **Beoordeling**|
-|---|---|---|---|---|
-|**Week 1**|Introductie Project| Presentatie | Eigen lettertype ontwerpen |
-|**Week 2**||||
-|**Week 3**||||
-|**Week 4**||||
-|**Week 5**||||
-|**Week 6**||||
-|**Week 7**||||
+**Duur:** 13-04-2026 t/m 26-06-2026
+**Focus:** *Framing, ethiek, manipulatie, interactie*
+
+| Week            | Onderdeel                     | Lesstof / Theorie                                  | Opdrachten                                         | Beoordeling |
+| --------------- | ----------------------------- | -------------------------------------------------- | -------------------------------------------------- | ----------- |
+| Week 1          | Framing en manipulatie        | Dataframing, grafische misleiding                  | Analyse van bestaande manipulatieve visuals        |             |
+| **Meivakantie** |                               |                                                    |                                                    |             |
+| **Meivakantie** |                               |                                                    |                                                    |             |
+| Week 2          | Kritisch kijken & denken      | Wie vertelt het verhaal? Bias, belangen en macht   | Schrijf een kritische analyse over datamisleiding  |             |
+| Week 3          | Interactieve visualisatie     | Tools: Flourish, Tableau Public, storytelling UX   | Ontwerp voor een interactieve datavisualisatie     |             |
+| Week 4          | Speculatief datadesign        | Speculatief en toekomstgericht denken              | Alternatieve toekomstscenario's ontwerpen met data | 5/10        |
+| Week 5          | Werk aan eindproduct          | Storytelling, iteratie, vormgeving verfijnen       | Prototype + testen in klas                         |             |
+| Week 6          | Presentatievormen & reflectie | Visueel presenteren, onderbouwen van ontwerpkeuzes | Eindpresentatie (poster / web / interactief)       |             |
+| Week 7          | Peer review & afronding       | Feedbackrondes, documenteren                       | Verbeterde versie + procesdocument                 |             |
+| Schakelweek     | Reflectie & eindbeoordeling   | Reflectiegesprek, documentatie + leerdoelen        | Inlevering + eindcijfer                            | Cijfer      |
+
+---
+
+## 📚 Bronnen & Tools
+
+* **Tools**: RAWGraphs, Flourish, Datawrapper, Tableau Public, Figma
+* **Datasets**: CBS, Our World in Data, Statista, Kaggle, Open Data Rijksoverheid
+* **Theorie**:
+
+  * *Data Visualization Handbook* – Juuso Koponen
+  * *The Functional Art* – Alberto Cairo
+  * *How Charts Lie* – Alberto Cairo
+  * *Dear Data* – Giorgia Lupi & Stefanie Posavec
+
+---
+
+## 📝 Beoordeling
+
+Beide periodes bevatten een summatieve opdracht, beoordeeld op basis van:
+
+* **60% Eindproduct** (vormgeving, accuratesse, creativiteit)
+* **40% Proces** (onderzoek, reflectie, conceptontwikkeling, feedbackverwerking)
+
+---
+
+Wil je dit ook als een visueel schema of bewerkbaar format (bv. Canva, Word of PDF), dan kan ik het voor je opmaken. Laat maar weten!

@@ -3,42 +3,42 @@
 
 ## Leerjaar 1
 
-| Vak                        | Periode 1 <br> Bauhaus            | Periode 2   <br> De Stijl                    | Periode 3 <br>  Art Nouveau | Periode 4  <br>  Futurisme |
-| -------------------------- | --------------------------------- | -------------------------------------------- | --------------------------- | -------------------------- |
-| **Grafisch Vormgeven**     | Roots kleurentheorie Logo Lexicon | Gestalt, Semiotiek(light), serif, sans-serif | Problemen oplossen          | Huisstijl                  |
-| **Animatie**               | Flipboekje + Stop Motion          | Animate                                      | x                           | x                          |
-| **BeeldBewerking**         | Photoshop Basis                   | Selecteren & Maskers                         | Kleurbewerking              | Vrij Project               |
-| **Illustratie**            | Tekenen Basis                     | Illustrator Basis                            | Illustrator                 | Character Design           |
-| **Film &  <br>Fotografie** | x                                 | x                                            | Intro Fotografie            | Intro Film                 |
-| **Portfolio**              | x                                 | x                                            | x                           | Adobe Portfolio            |
-| **Webdesign**              | Basis HTML                        | Basis CSS                                    | Wordpress/ CMS              | Herhaling HTML/CSS         |
-| **Layout**                 | InDesign Basis                    | Typografie                                   | Grid / Responsive           | Herhaling                  |
+| Vak                           | Periode 1 <br> Bauhaus            | Periode 2   <br> De Stijl                    | Periode 3 <br>  Art Nouveau | Periode 4  <br>  Futurisme |
+| ----------------------------- | --------------------------------- | -------------------------------------------- | --------------------------- | -------------------------- |
+| **Grafisch Vormgeven**        | Roots kleurentheorie Logo Lexicon | Gestalt, Semiotiek(light), serif, sans-serif | Problemen oplossen          | Huisstijl                  |
+| **[Animatie](/Animatie1.md)** | Flipboekje + Stop Motion          | Animate                                      | x                           | x                          |
+| **BeeldBewerking**            | Photoshop Basis                   | Selecteren & Maskers                         | Kleurbewerking              | Vrij Project               |
+| **Illustratie**               | Tekenen Basis                     | Illustrator Basis                            | Illustrator                 | Character Design           |
+| **Film &  <br>Fotografie**    | x                                 | x                                            | Intro Fotografie            | Intro Film                 |
+| **Portfolio**                 | x                                 | x                                            | x                           | Adobe Portfolio            |
+| **Webdesign**                 | Basis HTML                        | Basis CSS                                    | Wordpress/ CMS              | Herhaling HTML/CSS         |
+| **Layout**                    | InDesign Basis                    | Typografie                                   | Grid / Responsive           | Herhaling                  |
 
 ## Leerjaar 2
 
-| Vak                        | Periode 1  <br>  De Romantiek       | Periode 2  <br> Tegencultuur |
-| -------------------------- | ----------------------------------- | ---------------------------- |
-| **Grafisch Vormgeven**     | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie    |
-| **Animatie**               | Motion Design Intro After Effects   | After Effects                |
-| **Beeld <br>Bewerking**    | x                                   | x                            |
-| **Illustratie**            | Character Design / Tussen de Regels | Iconen/ Illustratorskills    |
-| **Portfolio**              | Website/CV                          | Website/CV                   |
-| **Webdesign**              | Wordpress                           | Portfolio                    |
-| **Interaction <br>Design** | WandelApp                           | Festival App                 |
-| **Project**                | Tussen de regels / Uitwerking       | Festival project             |
+| Vak                           | Periode 1  <br>  De Romantiek       | Periode 2  <br> Tegencultuur |
+| ----------------------------- | ----------------------------------- | ---------------------------- |
+| **Grafisch Vormgeven**        | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie    |
+| **[Animatie](/Animatie2.md)** | Motion Design Intro After Effects   | After Effects                |
+| **Beeld <br>Bewerking**       | x                                   | x                            |
+| **Illustratie**               | Character Design / Tussen de Regels | Iconen/ Illustratorskills    |
+| **Portfolio**                 | Website/CV                          | Website/CV                   |
+| **Webdesign**                 | Wordpress                           | Portfolio                    |
+| **Interaction <br>Design**    | WandelApp                           | Festival App                 |
+| **Project**                   | Tussen de regels / Uitwerking       | Festival project             |
 
 ## Leerjaar 3
 
-| Vak                                          | Periode 1 <br> Counter-cultures | Periode 2 <br> Popcultuur   | Periode 3 <br> De creatieve Revolutie | Periode 4 <br> Dutch Design |
-| -------------------------------------------- | ------------------------------- | --------------------------- | ------------------------------------- | --------------------------- |
-| **Grafisch Vormgeven**                       | Graphic Matters opdrachten      | Huisstijl Advocaten         | FashionLabs                           | StreetArt                   |
-| **Animatie**                                 | After Effects                   | After Effects               | x                                     | x                           |
-| **BeeldBewerking**                           | Letter in de omgeving           | Compositing                 | ‘In de stijl van’                     | Vrij Project                |
-| **[Typografie](/Typografie.md)**             | Lettertype Maken                | Magazine Opmaak en Layout   | Classificaties                        | TextAnimaties               |
-| **[Datavisualisatie](/Datavisualisatie.md)** | x                               | x                           | Infographics                          | ExamenBureau / Explainer    |
-| **Portfolio**                                | x                               | Showreel & Portfolio Update | Voorbereiden Stage                    | x                           |
-| **Branding**                                 | Nieuwe Markten                  | Craze Kids Loyalty          | Fast Fashion                          | Ikea Opdracht               |
-| **Project**                                  | Graphic Matters / Stop          | ZZP-Project                 | Ik-project                            | Berlijn Reisgids            |
+| Vak                                              | Periode 1 <br> Counter-cultures | Periode 2 <br> Popcultuur   | Periode 3 <br> De creatieve Revolutie | Periode 4 <br> Dutch Design |
+| ------------------------------------------------ | ------------------------------- | --------------------------- | ------------------------------------- | --------------------------- |
+| **[Grafisch Vormgeven](/GrafischVormgeven3.md)** | Graphic Matters opdrachten      | Huisstijl Advocaten         | FashionLabs                           | StreetArt                   |
+| **[Animatie](/Animatie3.md)**                    | After Effects                   | After Effects               | x                                     | x                           |
+| **BeeldBewerking**                               | Letter in de omgeving           | Compositing                 | ‘In de stijl van’                     | Vrij Project                |
+| **[Typografie](/Typografie.md)**                 | Lettertype Maken                | Magazine Opmaak en Layout   | Classificaties                        | TextAnimaties               |
+| **[Datavisualisatie](/Datavisualisatie.md)**     | x                               | x                           | Infographics                          | ExamenBureau / Explainer    |
+| **Portfolio**                                    | x                               | Showreel & Portfolio Update | Voorbereiden Stage                    | x                           |
+| **Branding**                                     | Nieuwe Markten                  | Craze Kids Loyalty          | Fast Fashion                          | Ikea Opdracht               |
+| **Project**                                      | Graphic Matters / Stop          | ZZP-Project                 | Ik-project                            | Berlijn Reisgids            |
 
 
 
