@@ -16,29 +16,29 @@
 
 ## Leerjaar 2
 
-| Vak                         | Periode 1                           | Periode 2                 |
-| --------------------------- | ----------------------------------- | ------------------------- |
-| **Grafisch Vormgeven**      | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie |
-| **Animatie**                | Motion Design                       | After Effects             |
-| **Beeld <br>Bewerking**     | x                                   | x                         |
-| **Illustratie**             | Character Design / Tussen de Regels | Iconen/ Illustratorskills |
-| **Portfolio**               | Website/CV                          | Website/CV                |
-| **Webdesign**               | Wordpress                           | Portfolio                 |
-| **Interaction <br>Design** | WandelApp                           | Festival App              |
-| **Project**                 | Tussen de regels / Uitwerking       | Festival project          |
+| Vak                        | Periode 1  <br>  De Romantiek       | Periode 2  <br> Tegencultuur |
+| -------------------------- | ----------------------------------- | ---------------------------- |
+| **Grafisch Vormgeven**     | Tussen de Regels / Boekontwerp      | Festivalproject/Expositie    |
+| **Animatie**               | Motion Design                       | After Effects                |
+| **Beeld <br>Bewerking**    | x                                   | x                            |
+| **Illustratie**            | Character Design / Tussen de Regels | Iconen/ Illustratorskills    |
+| **Portfolio**              | Website/CV                          | Website/CV                   |
+| **Webdesign**              | Wordpress                           | Portfolio                    |
+| **Interaction <br>Design** | WandelApp                           | Festival App                 |
+| **Project**                | Tussen de regels / Uitwerking       | Festival project             |
 
 ## Leerjaar 3
 
-| Vak                                          | Periode 1                                | Periode 2                   | Periode 3         | Periode 4        |
-| -------------------------------------------- | ---------------------------------------- | --------------------------- | ----------------- | ---------------- |
-| **Grafisch Vormgeven**                       | Graphic Matters opdrachten               | Huisstijl Advocaten         | FashionLabs       | StreetArt        |
-| **Animatie**                                 | After Effects                            | After Effects               | x                 | x                |
-| **BeeldBewerking**                           | Letter in de omgeving                    | Compositing                 | ‘In de stijl van’ | Vrij Project     |
-| **[Typografie](/Typografie.md)**             | Lettertype Maken                         | Magazine Opmaak en Layout   | Classificaties    | TextAnimaties    |
-| **[Datavisualisatie](/Datavisualisatie.md)** | x                                        | x                           | Infographics      | ExamenBureau     |
-| **Portfolio**                                | x                                        | Showreel & Portfolio Update | x                 | x                |
-| **Branding**                                 | Nieuwe Markten                           | Craze Kids Loyalty          | Fast Fashion      | Ikea Opdracht    |
-| **Project**                                  | Graphic Matters / Tussen aanhalingtekens | ZZP-Project                 | Ik-project        | Berlijn Reisgids |
+| Vak                                          | Periode 1 <br> Counter-cultures | Periode 2 <br> Popcultuur   | Periode 3 <br> De creatieve Revolutie | Periode 4 <br> Dutch Design |
+| -------------------------------------------- | ------------------------------- | --------------------------- | ------------------------------------- | --------------------------- |
+| **Grafisch Vormgeven**                       | Graphic Matters opdrachten      | Huisstijl Advocaten         | FashionLabs                           | StreetArt                   |
+| **Animatie**                                 | After Effects                   | After Effects               | x                                     | x                           |
+| **BeeldBewerking**                           | Letter in de omgeving           | Compositing                 | ‘In de stijl van’                     | Vrij Project                |
+| **[Typografie](/Typografie.md)**             | Lettertype Maken                | Magazine Opmaak en Layout   | Classificaties                        | TextAnimaties               |
+| **[Datavisualisatie](/Datavisualisatie.md)** | x                               | x                           | Infographics                          | ExamenBureau / Explainer    |
+| **Portfolio**                                | x                               | Showreel & Portfolio Update | Voorbereiden Stage                    | x                           |
+| **Branding**                                 | Nieuwe Markten                  | Craze Kids Loyalty          | Fast Fashion                          | Ikea Opdracht               |
+| **Project**                                  | Graphic Matters / Stop          | ZZP-Project                 | Ik-project                            | Berlijn Reisgids            |
 
 
 
