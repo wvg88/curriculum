@@ -19,24 +19,24 @@ Leerlijn klopt met het jaarrooster van 2025/2026
 - Realiseert de vormgeving voor crossmediale toepassingen
 
 
-### Periode 1: Geschiedenis & Classificaties van Typografie
+### Periode 1: Theorie van Typografie
 
 **Duur:** 01-09-2025 t/m 03-11-2025
 
-| Week            | Onderdeel                              | Lesstof                                                | Opdrachten                                                            | Beoordeling |
-| --------------- | -------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------- | ----------- |
-| Introductieweek |                                        |                                                        |                                                                       |             |
-| 1               | Geschiedenis van Typografie            | Ontwikkeling van typografie door de eeuwen heen        | Onderzoek naar historische lettertypes                                |             |
-| 2               | Classificatities                       | Vox-ATypI classificatiesysteem                         | Analyse van verschillende lettertypes volgens Vox-ATypI               |             |
-| 3               | BroodTekst                             | Platte tekst                                           | Vox ATypi Infographic                                                 | 5/10        |
-| 4               | Typografie in de Renaissance           | Kenmerken en voorbeelden                               | Schetsen van Renaissance-lettertypes                                  |             |
-| 5               | Typografie in de Industriële Revolutie | Technologische ontwikkelingen                          | Onderzoek naar de impact van de industriële revolutie op typografie   |             |
-| 6               | Moderne Typografie                     | Opkomst van digitale typografie                        | Vergelijking van traditionele en digitale typografie                  |             |
-| Herfstvakantie  |                                        |                                                        |                                                                       |             |
-| 7               | Praktijkopdracht                       | Toepassing van historische kennis in moderne ontwerpen | Ontwerp een modern lettertype geïnspireerd door een historische stijl |             |
-| 8               | Presentaties                           | Studenten presenteren hun werk                         |                                                                       |             |
-| 9               |                                        |                                                        |                                                                       |             |
-| Schakelweek     |                                        |                                                        |                                                                       | Cijfer      |
+| Week            | Onderdeel               | Lesstof                           | Opdrachten                                              | Beoordeling |
+| --------------- | ----------------------- | --------------------------------- | ------------------------------------------------------- | ----------- |
+| Introductieweek |                         |                                   |                                                         |             |
+| 1               | Geschiedenis Typografie | Ontwikkeling van typografie       | Onderzoek naar historische lettertypes                  |             |
+| 2               | Classificaties          | Vox-ATypI classificatiesysteem    | Analyse van verschillende lettertypes volgens Vox-ATypI |             |
+| 3               | Classificaties          | Infographic uitwerken             | Vox ATypi Infographic                                   | 5/10        |
+| 4               | Lettertypes kiezen      | Kenmerken en voorbeelden          | Lettertypes kiezen per situatie                         |             |
+| 5               | Lettertypes combineren  | Lettertype combinaties            | Lettertype stijlboek                                    |             |
+| 6               | Typegames               | Herkennen van lettertypes         | Typegames, Helvetica vs Arial, Typewars, Kerning game   |             |
+| Herfstvakantie  |                         |                                   |                                                         |             |
+| 7               | Textwrap                | Opmaak, hiërarchie en afbrekingen | Opmaak Artikel Vruchtvlees                              |             |
+| 8               |                         |                                   |                                                         |             |
+| 9               | Toets                   |                                   |                                                         | 2/10        |
+| Schakelweek     |                         |                                   |                                                         | Cijfer      |
 
 ### Periode 2: Creatieve Typografie
 
@@ -94,7 +94,11 @@ Leerlijn klopt met het jaarrooster van 2025/2026
 ### Bronnen & Materiaal
 
 - [Geschiedenis van Typografie - animatie](https://vimeo.com/65353988)
+- [Practical Typography - online naslagwerk](https://practicaltypography.com/)
+- [Anatomie van letters](https://visme.co/blog/type-anatomy/)
 - [Tips opmaak Tekst](https://blind.com/blog/typography-manual/)
+
+
 
 ### Werkprocessen
 
