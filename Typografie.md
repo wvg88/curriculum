@@ -94,6 +94,8 @@ Leerlijn klopt met het jaarrooster van 2025/2026
 ### Bronnen & Materiaal
 
 - [Geschiedenis van Typografie - animatie](https://vimeo.com/65353988)
+- [Practical Typography - online naslagwerk](https://practicaltypography.com/)
+- [Anatomie van letters](https://visme.co/blog/type-anatomy/)
 - [Tips opmaak Tekst](https://blind.com/blog/typography-manual/)
 
 -[Youtube playlist Vox e.a.]
