@@ -29,16 +29,16 @@
 
 ## Leerjaar 3
 
-| Vak                                              | Periode 1 <br> Counter-cultures | Periode 2 <br> Popcultuur   | Periode 3 <br> De creatieve Revolutie | Periode 4 <br> Dutch Design |
-| ------------------------------------------------ | ------------------------------- | --------------------------- | ------------------------------------- | --------------------------- |
-| **[Grafisch Vormgeven](/GrafischVormgeven3.md)** | Graphic Matters opdrachten      | Huisstijl Advocaten         | FashionLabs                           | StreetArt                   |
-| **[Animatie](/Animatie3.md)**                    | After Effects                   | After Effects               | x                                     | x                           |
-| **BeeldBewerking**                               | Letter in de omgeving           | Compositing                 | ‘In de stijl van’                     | Vrij Project                |
-| **[Typografie](/Typografie.md)**                 | Lettertype Maken                | Magazine Opmaak en Layout   | Classificaties                        | TextAnimaties               |
-| **[Datavisualisatie](/Datavisualisatie.md)**     | x                               | x                           | Infographics                          | ExamenBureau / Explainer    |
-| **Portfolio**                                    | x                               | Showreel & Portfolio Update | Voorbereiden Stage                    | x                           |
-| **Branding**                                     | Nieuwe Markten                  | Craze Kids Loyalty          | Fast Fashion                          | Ikea Opdracht               |
-| **Project**                                      | Graphic Matters / Stop          | ZZP-Project                 | Ik-project                            | Berlijn Reisgids            |
+| Vak                                              | Periode 1 <br> Counter-cultures          | Periode 2 <br> Popcultuur   | Periode 3 <br> De creatieve Revolutie | Periode 4 <br> Dutch Design          |
+| ------------------------------------------------ | ---------------------------------------- | --------------------------- | ------------------------------------- | ------------------------------------ |
+| **[Grafisch Vormgeven](/GrafischVormgeven3.md)** | Graphic Matters opdrachten               | Ik-project                  | FashionLabs?                          | StreetArt                            |
+| **[Animatie](/Animatie3.md)**                    |                                          |                             | After Effects                         | After Effects                        |
+| **BeeldBewerking**                               | Letter in de omgeving                    | Compositing                 | ‘In de stijl van’                     | Vrij Project                         |
+| **[Typografie](/Typografie.md)**                 | Geschiedenis & context /  Classificaties | Magazine Opmaak en Layout   | Letter in de omgeving                 | TextAnimaties       Lettertype Maken |
+| **[Datavisualisatie](/Datavisualisatie.md)**     | x                                        | x                           | Infographics                          | ExamenBureau / Explainer             |
+| **Portfolio**                                    | x                                        | Showreel & Portfolio Update | Voorbereiden Stage                    | x                                    |
+| **Branding**                                     | Nieuwe Markten                           | Craze Kids Loyalty          | Fast Fashion                          | Ikea Opdracht                        |
+| **Project**                                      | Graphic Matters / Stop                   | ZZP-Project                 | Trots Expo                            | Berlijn Reisgids                     |
 
 
 

@@ -1,7 +1,7 @@
 
 
 # Leerlijn Datavisualisatie
-*GVO Leerjaar 3 – Schooljaar 2025/2026*
+*CCR Leerjaar 2 – Schooljaar 2025/2026*
 
 
 |                  |     Periode 3     |           Periode 4            |

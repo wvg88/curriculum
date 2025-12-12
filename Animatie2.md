@@ -1,6 +1,5 @@
 
 # Leerlijn Animatie 2
-
 *GVO Leerjaar 2 2025/26*
 
 Leerlijn afgestemd op het jaarrooster van 2025/2026
